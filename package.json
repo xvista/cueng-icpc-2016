@@ -1,4 +1,7 @@
 {
+  "name": "acm-icpc-2016-website",
+  "version": "0.0.1",
+  "description": "2016 ACM-ICPC official site which organized by Chula Engineering",
   "private": true,
   "scripts": {
     "prod": "gulp --production",
