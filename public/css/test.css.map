@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.less","test.css"],"names":[],"mappings":"AAGA;EACI,eAAA;CCFH;ADCD;EAGQ,eAAA;CCDP","file":"test.css","sourcesContent":["@black: #000000;\r\n@red: #ff0001;\r\n\r\nh1{\r\n    color: @black;\r\n    p{\r\n        color: @red;\r\n    }\r\n}","h1 {\n  color: #000000;\n}\nh1 p {\n  color: #ff0001;\n}\n"],"sourceRoot":"/source/"}
