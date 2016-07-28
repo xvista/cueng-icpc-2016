@@ -1,5 +1,5 @@
 var elixir = require('laravel-elixir');
-
+var connectPHP = require('gulp-connect-php');
 /*
  |--------------------------------------------------------------------------
  | Elixir Asset Management
@@ -12,5 +12,15 @@ var elixir = require('laravel-elixir');
  */
 
 elixir(function (mix) {
-    mix.less('test.less', 'public/css/test.css');    
+    mix.less('**/*.less')
+    connectPHP.server({
+        base: './public',
+        hostname: '0.0.0.0',
+        port: 8888
+    });
+    mix.browserSync({
+        online: false,
+        proxy: 'localhost:8888',
+        browser: 'google chrome'
+    });
 });
