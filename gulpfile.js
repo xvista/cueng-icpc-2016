@@ -11,6 +11,10 @@ var connectPHP = require('gulp-connect-php');
  |
  */
 
+elixir.config.css.autoprefix = {
+    enabled: true
+};
+
 elixir(function (mix) {
     mix.less('**/*.less')
     connectPHP.server({

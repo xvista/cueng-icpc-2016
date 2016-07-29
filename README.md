@@ -19,7 +19,6 @@ composer install
 php artisan key:generate
 ```
 4. Start up PHP Server at port 8888
-
 ```
 php -S localhost:8888 -t public
 ```
