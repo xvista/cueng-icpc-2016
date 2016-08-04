@@ -1,12 +1,69 @@
-h1 {
-  color: #000000;
+.ghost-white-button {
+  border: 2px solid #ffffff;
+  border-radius: 0px;
+  background-color: transparent;
+  color: #ffffff;
+  transition: all .35s;
+  -webkit-transition: all .35s;
+  -moz-transition: all .35s;
 }
-h1 p {
-  color: #111111;
+.ghost-white-button:hover {
+  background-color: #ffffff;
+  color: #0095ff;
+  border-color: #ffffff;
 }
-.aaa {
-  -webkit-transition: width 1s;
-          transition: width 1s;
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+#central-a-contest-section {
+  color: #ffffff;
+  background-color: #0095ff;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+@media (max-width: 768px) {
+  #central-a-contest-section {
+    padding-top: 55px;
+    padding-bottom: 55px;
+  }
+}
+#central-a-contest-section #contest-logo {
+  width: 200px;
+}
+@media (max-width: 768px) {
+  #central-a-contest-section #contest-logo {
+    width: 60%;
+  }
+}
+#central-a-contest-section #contest-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 3em;
+}
+#central-a-contest-section #contest-description {
+  margin-bottom: 20px;
+  margin-top: 0px;
+  font-size: 1.5em;
+}
+#central-a-contest-section #central-a-button {
+  font-size: 20px;
+}
+
+.ghost-white-button {
+  border: 2px solid #ffffff;
+  border-radius: 0px;
+  background-color: transparent;
+  color: #ffffff;
+  transition: all .35s;
+  -webkit-transition: all .35s;
+  -moz-transition: all .35s;
+}
+.ghost-white-button:hover {
+  background-color: #ffffff;
+  color: #0095ff;
+  border-color: #ffffff;
 }
 
 /*# sourceMappingURL=app.css.map */

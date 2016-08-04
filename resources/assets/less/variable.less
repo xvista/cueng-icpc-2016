@@ -1,0 +1,24 @@
+@main-theme: #0095ff;
+
+@black: #000000;
+@white: #ffffff;
+@red: #ff0000;
+
+.nice-transition(){
+    transition: all .35s;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+}
+
+.ghost-white-button{
+    border: 2px solid @white;
+    border-radius: 0px;
+    background-color: transparent;
+    color: @white;
+    .nice-transition();
+    &:hover{
+        background-color: @white;
+        color: @main-theme;
+        border-color: @white;
+    }
+}
