@@ -7,14 +7,7 @@ body{
 #central-a-contest-section {
     color: @white;
     background-color: @main-theme;
-    text-align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    @media (max-width: 768px) {
-        padding-top: 55px;
-        padding-bottom: 55px;
-
-    }
+    .section-header-style();
     #contest-logo{
         width: 200px;
         @media (max-width: 768px) {
@@ -35,5 +28,33 @@ body{
     #central-a-button{
         font-size: 20px;
 
+    }
+}
+
+.section-header{
+    margin-bottom: 25px;
+}
+#upcoming-event-section {
+    .section-style();
+    
+}
+
+#archived-event-section {
+    .section-style();
+}
+
+footer{
+    .footer-below{
+        text-align: center;
+        color: @white;
+        background-color: @theme-shade-3;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        .copyright-text{
+            margin: 0;
+            a{
+                color: @theme-shade-1;
+            }
+        }
     }
 }
