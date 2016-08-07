@@ -51,7 +51,7 @@ footer .footer-below .copyright-text a {
   color: #ffffff;
   margin-bottom: 10px;
 }
-#central-a-contest-section {
+.welcoming-section {
   color: #ffffff;
   background-color: #0095ff;
   text-align: center;
@@ -59,31 +59,31 @@ footer .footer-below .copyright-text a {
   padding-bottom: 100px;
 }
 @media (max-width: 768px) {
-  #central-a-contest-section {
+  .welcoming-section {
     padding-top: 55px;
     padding-bottom: 55px;
   }
 }
-#central-a-contest-section #contest-logo {
+.welcoming-section .contest-logo {
   width: 200px;
 }
 @media (max-width: 768px) {
-  #central-a-contest-section #contest-logo {
+  .welcoming-section .contest-logo {
     width: 60%;
   }
 }
-#central-a-contest-section #contest-title {
+.welcoming-section .contest-title {
   margin-top: 20px;
   margin-bottom: 20px;
   font-weight: 600;
   font-size: 3em;
 }
-#central-a-contest-section #contest-description {
+.welcoming-section .contest-description {
   margin-bottom: 20px;
   margin-top: 0px;
   font-size: 1.5em;
 }
-#central-a-contest-section #central-a-button {
+.welcoming-section #central-a-button {
   font-size: 20px;
 }
 .section-header {
