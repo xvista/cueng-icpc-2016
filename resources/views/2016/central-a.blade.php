@@ -89,3 +89,7 @@
     </div>
 </footer>
 @endsection
+
+@section('script')
+<script src="{{ asset('js/tabHandler.js') }}"></script>
+@endsection
