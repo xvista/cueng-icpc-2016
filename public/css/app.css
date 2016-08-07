@@ -71,6 +71,13 @@ footer .footer-below .copyright-text a {
 #central-a-contest .tab-content {
   text-align: left;
 }
+#central-a-contest #prep-course table .table-header {
+  color: #ffffff;
+  background-color: #00719c;
+}
+#central-a-contest #prep-course table .table-header th {
+  font-weight: 200;
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
