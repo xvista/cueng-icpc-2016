@@ -68,6 +68,9 @@ footer .footer-below .copyright-text a {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+#central-a-contest .tab-content {
+  text-align: left;
+}
 
 body {
   font-family: 'Open Sans', sans-serif;

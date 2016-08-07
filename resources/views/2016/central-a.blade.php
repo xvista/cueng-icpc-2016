@@ -32,8 +32,7 @@
     <div class="col-md-10">
         <div class="tab-content">
             <div id="about" class="tab-pane fade in active">
-                <h3>About</h3>
-                <p>Some content.</p>
+                @include('2016.partials.about')
             </div>
             <div id="prize" class="tab-pane fade">
                 <h3>Prize</h3>
