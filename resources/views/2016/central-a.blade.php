@@ -13,26 +13,64 @@
     </div>
 </header>
 
-<section id="upcoming-event-section">
-    <h1 class="section-header">Upcoming Event</h1>
-</section>
-
-<section id="archived-event-section">
-    <h1 class="section-header">Archived Event</h1>
-    <div class="container">
-        <div class="col-md-4 col-md-offset-2">
-            <div class="card">
-                <img src="{{ asset('img/browser.png') }}" class="card-img center-block">
-                <p>2015 ACM-ICPC Thailand Central B Contest</p>
-                <a href="{{ url('http://www.acm-icpc.eng.chula.ac.th/acm-2015/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>     
-            </div>
+<section id="central-a-contest">
+    <ul class="nav nav-pills">
+        <li class="active"><a href="#about" data-toggle="pill">About</a></li>
+        <li><a href="#prize" data-toggle="pill">Prize</a></li>
+        <li><a href="#prep-course" data-toggle="pill">Preparation Course</a></li>
+        <li><a href="#rules" data-toggle="pill">Rules</a></li>
+        <li><a href="#schedule" data-toggle="pill">Schedule</a></li>
+        <li><a href="#registration" data-toggle="pill">Registration</a></li>
+        <li><a href="#map" data-toggle="pill">Maps & Accomodations</a></li>
+        <li><a href="#contestant" data-toggle="pill">Contestant Information</a></li>
+        <li><a href="#results" data-toggle="pill">Results</a></li>
+        <li><a href="#gallery" data-toggle="pill">Gallery</a></li>
+        <li><a href="#contact" data-toggle="pill">Contact</a></li> 
+    </ul>
+    <div class="tab-content">
+        <div id="about" class="tab-pane fade in active">
+            <h3>About</h3>
+            <p>Some content.</p>
         </div>
-        <div class="col-md-4">
-            <div class="card">
-                <img src="{{ asset('img/browser.png') }}" class="card-img center-block">        
-                <p>2014 ACM-ICPC Asia Bangkok Regional Contest</p>
-                <a href="{{ url('http://www.acm-icpc.eng.chula.ac.th/acm-2014/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>                     
-            </div>
+        <div id="prize" class="tab-pane fade">
+            <h3>Prize</h3>
+            <p>Some content in menu 1.</p>
+        </div>
+        <div id="prep-course" class="tab-pane fade">
+            <h3>Preparation Course</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="rules" class="tab-pane fade">
+            <h3>Rules</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="schedule" class="tab-pane fade">
+            <h3>Schedule</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="registration" class="tab-pane fade">
+            <h3>Registration</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="map" class="tab-pane fade">
+            <h3>Maps & Accomodations</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="contestant" class="tab-pane fade">
+            <h3>Contestant</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="results" class="tab-pane fade">
+            <h3>Results</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="gallery" class="tab-pane fade">
+            <h3>Gallery</h3>
+            <p>Some content in menu 2.</p>
+        </div>
+        <div id="contact" class="tab-pane fade">
+            <h3>Contact</h3>
+            <p>Some content in menu 2.</p>
         </div>
     </div>
 </section>
