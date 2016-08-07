@@ -1,8 +1,30 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+footer .footer-above {
+  text-align: center;
+  color: #ffffff;
+  background-color: #00719c;
+}
+footer .footer-below {
+  text-align: center;
+  color: #ffffff;
+  background-color: #00415a;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+footer .footer-below .copyright-text {
+  margin: 0;
+}
+footer .footer-below .copyright-text a {
+  color: #009bd6;
+}
 .ghost-white-button {
   border: 2px solid #ffffff;
   border-radius: 0px;
   background-color: transparent;
   color: #ffffff;
+  font-weight: 200;
   transition: all .35s;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
@@ -28,9 +50,6 @@
 .card p {
   color: #ffffff;
   margin-bottom: 10px;
-}
-body {
-  font-family: 'Open Sans', sans-serif;
 }
 #central-a-contest-section {
   color: #ffffff;
@@ -92,6 +111,15 @@ body {
     padding-bottom: 55px;
   }
 }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+footer .footer-above {
+  text-align: center;
+  color: #ffffff;
+  background-color: #00719c;
+}
 footer .footer-below {
   text-align: center;
   color: #ffffff;
@@ -105,12 +133,12 @@ footer .footer-below .copyright-text {
 footer .footer-below .copyright-text a {
   color: #009bd6;
 }
-
 .ghost-white-button {
   border: 2px solid #ffffff;
   border-radius: 0px;
   background-color: transparent;
   color: #ffffff;
+  font-weight: 200;
   transition: all .35s;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;

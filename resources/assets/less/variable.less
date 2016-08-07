@@ -7,6 +7,34 @@
 @white: #ffffff;
 @red: #ff0000;
 
+// Global Style
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+    .footer-above{
+        text-align: center;
+        color: @white;
+        background-color: @theme-shade-2;
+    }
+    .footer-below{
+        text-align: center;
+        color: @white;
+        background-color: @theme-shade-3;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        .copyright-text{
+            margin: 0;
+            a{
+                color: @theme-shade-1;
+            }
+        }
+    }
+}
+// End of Global Style
+
+// Mixins
 .nice-transition(){
     transition: all .35s;
     -webkit-transition: all .35s;
@@ -31,20 +59,6 @@
         padding-bottom: 55px;
     }
 }
-
-.ghost-white-button{
-    border: 2px solid @white;
-    border-radius: 0px;
-    background-color: transparent;
-    color: @white;
-    .nice-transition();
-    &:hover{
-        background-color: @white;
-        color: @main-theme;
-        border-color: @white;
-    }
-}
-
 .BoxShadowHelper(@level: 1){
     & when (@level = 1) {
         box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -60,6 +74,20 @@
     }
     & when (@level = 5) {
         box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    }
+}
+// End Mixins
+.ghost-white-button{
+    border: 2px solid @white;
+    border-radius: 0px;
+    background-color: transparent;
+    color: @white;
+    font-weight: 200;
+    .nice-transition();
+    &:hover{
+        background-color: @white;
+        color: @main-theme;
+        border-color: @white;
     }
 }
 
