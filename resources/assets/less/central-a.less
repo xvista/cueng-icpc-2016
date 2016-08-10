@@ -22,5 +22,25 @@
                 }
             }
         }
+        #prep-course-register-form{
+            input{
+                border-radius: 0px;
+                &:focus{
+                    border: 2px solid @theme-shade-2;
+                    box-shadow: none;
+                }
+            }
+            .btn-submit{
+                border-radius: 0px;
+                border: none;
+                background-color: @theme-shade-2;
+                color: @white;
+                width: 100%;
+                .nice-transition();
+                &:hover{
+                    background-color: @theme-shade-3;
+                }
+            }
+        }
     }
 }

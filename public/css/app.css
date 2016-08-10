@@ -78,6 +78,26 @@ footer .footer-below .copyright-text a {
 #central-a-contest #prep-course table .table-header th {
   font-weight: 200;
 }
+#central-a-contest #prep-course #prep-course-register-form input {
+  border-radius: 0px;
+}
+#central-a-contest #prep-course #prep-course-register-form input:focus {
+  border: 2px solid #00719c;
+  box-shadow: none;
+}
+#central-a-contest #prep-course #prep-course-register-form .btn-submit {
+  border-radius: 0px;
+  border: none;
+  background-color: #00719c;
+  color: #ffffff;
+  width: 100%;
+  transition: all .35s;
+  -webkit-transition: all .35s;
+  -moz-transition: all .35s;
+}
+#central-a-contest #prep-course #prep-course-register-form .btn-submit:hover {
+  background-color: #00415a;
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
