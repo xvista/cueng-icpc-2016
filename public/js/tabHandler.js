@@ -8,7 +8,8 @@
     }
 
     $(document).on('shown.bs.tab', function (e) {
-        window.location.hash = e.target.hash;
+        var baseUrl = window.location.href.split('#')[0];
+        window.location.replace(baseUrl + e.target.hash);
     });
 
 })();
