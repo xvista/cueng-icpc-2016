@@ -2,14 +2,21 @@
 
 #central-a-contest {
     .section-style();
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding: 25px 0 25px 0;
+    // padding-top: 25px;
+    // padding-bottom: 25px;
     .section-header{
         margin-top: 10px;
         margin-bottom: 10px;
     }
     .tab-content{
         text-align: left;
+        h3{
+            font-weight: 700;
+            @media (max-width:768px) {
+                text-align: center;
+            }
+        }
     }
 
     #prep-course{

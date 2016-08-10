@@ -64,8 +64,7 @@ footer .footer-below .copyright-text a {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding: 25px 0 25px 0;
 }
 @media (max-width: 768px) {
   #central-a-contest {
@@ -79,6 +78,14 @@ footer .footer-below .copyright-text a {
 }
 #central-a-contest .tab-content {
   text-align: left;
+}
+#central-a-contest .tab-content h3 {
+  font-weight: 700;
+}
+@media (max-width: 768px) {
+  #central-a-contest .tab-content h3 {
+    text-align: center;
+  }
 }
 #central-a-contest #prep-course table .table-header {
   color: #ffffff;
