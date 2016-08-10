@@ -62,11 +62,10 @@
                 @include('2016.partials.gallery')
             </div>
             <div id="contact" class="tab-pane fade">
-                @include('2016.partials.contact')                
+                @include('2016.partials.contact')  
             </div>
         </div>
     </div>
-    
 </section>
 
 <footer>
