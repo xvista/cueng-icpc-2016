@@ -59,8 +59,8 @@ footer{
     padding-top: 50px;
     padding-bottom: 50px;
     @media (max-width: 768px) {
-        padding-top: 55px;
-        padding-bottom: 55px;
+        padding-top: 40px;
+        padding-bottom: 40px;
     }
 }
 .BoxShadowHelper(@level: 1){
@@ -100,9 +100,9 @@ footer{
     background-color: @main-theme;
     padding: 10px;
     .nice-transition();
-    &:hover{
-        // .BoxShadowHelper(3);
-        // cursor: pointer;
+    @media (max-width: 768px) {
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
     .card-img{
         width: 40%;

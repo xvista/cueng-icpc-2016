@@ -22,6 +22,6 @@
         </div>
     </div>
     <div class="footer-below">
-        <span class="copyright-text">Copyright © 2016 - <a href="{{ url('https://www.cp.eng.chula.ac.th/') }}">Computer Engineering, Chulalongkorn University</a></span>
+        <span class="copyright-text">Copyright © 2016 - <a href="{{ url('https://www.cp.eng.chula.ac.th/') }}" target="_blank">Computer Engineering, Chulalongkorn University</a></span>
     </div>
 </footer>
