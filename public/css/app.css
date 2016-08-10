@@ -78,6 +78,10 @@ footer .footer-below .copyright-text a {
 #central-a-contest #prep-course table .table-header th {
   font-weight: 200;
 }
+#central-a-contest #prep-course #prep-course-register-form .row {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 #central-a-contest #prep-course #prep-course-register-form input {
   border-radius: 0px;
 }
@@ -86,6 +90,7 @@ footer .footer-below .copyright-text a {
   box-shadow: none;
 }
 #central-a-contest #prep-course #prep-course-register-form .btn-submit {
+  margin-top: 5px;
   border-radius: 0px;
   border: none;
   background-color: #00719c;

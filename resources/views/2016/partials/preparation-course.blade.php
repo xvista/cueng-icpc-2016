@@ -61,31 +61,37 @@
 <h3>ลงทะเบียนการอบรม</h3>
 <p>ผู้สนใจสามารถลงทะเบียนเข้าร่วมการอบรมได้จากแบบฟอร์มต่อไปนี้</p>
 
-<div class="col-md-6">
+<div class="col-md-6 col-md-offset-3">
     <form class="form" id="prep-course-register-form">
-        <div class="form-group">
-            <label for="name">ชื่อ</label>
-            <input type="text" class="form-control" id="name">
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" class="form-control" id="name" placeholder="ชื่อ" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+            </div>
         </div>
-        <div class="form-group">
-            <label for="surname">นามสกุล</label>
-            <input type="text" class="form-control" id="surname">
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" class="form-control" id="surname" placeholder="นามสกุล" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+            </div>
         </div>
-        <div class="form-group">
-            <label for="school">สถาบัน</label>
-            <input type="text" class="form-control" id="school">
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" class="form-control" id="school" placeholder="สถาบัน" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+            </div>
         </div>
-        <div class="form-group">
-            <label for="email">อีเมล์</label>
-            <input type="email" class="form-control" id="email">
+        <div class="row">
+            <div class="col-md-12">
+                <input type="email" placeholder="อีเมล" class="form-control" id="email" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+            </div>
         </div>
-        <div class="form-group">
-            <label for="telephone">โทรศัพท์</label>
-            <input type="text" class="form-control" id="telephone">
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" placeholder="โทรศัพท์" class="form-control" id="telephone" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+            </div>
         </div>
-        <div class="form-group">
-            <label for="allergy">อาหารที่แพ้</label>
-            <input type="text" class="form-control" id="allergy">
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" placeholder="อาหารที่แพ้" class="form-control" id="allergy" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+            </div>
         </div>
         <button type="submit" class="btn btn-default btn-submit">สมัครเข้าร่วม</button>
     </form>
