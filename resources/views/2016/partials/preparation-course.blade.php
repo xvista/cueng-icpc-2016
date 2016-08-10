@@ -60,39 +60,50 @@
 
 <h3>ลงทะเบียนการอบรม</h3>
 <p>ผู้สนใจสามารถลงทะเบียนเข้าร่วมการอบรมได้จากแบบฟอร์มต่อไปนี้</p>
+<div class="row">
+    <div class="col-md-6 col-md-push-3">
+        <form class="form" id="prep-course-register-form">
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="text" class="form-control" id="name" placeholder="ชื่อ" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="text" class="form-control" id="surname" placeholder="นามสกุล" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="text" class="form-control" id="school" placeholder="สถาบัน" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="email" placeholder="อีเมล" class="form-control" id="email" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="tel" placeholder="โทรศัพท์" class="form-control" id="telephone" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="text" placeholder="อาหารที่แพ้" class="form-control" id="allergy" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-default btn-submit">สมัครเข้าร่วม</button>
+        </form>
+    </div>
+</div>
 
-<div class="col-md-6 col-md-offset-3">
-    <form class="form" id="prep-course-register-form">
-        <div class="row">
-            <div class="col-md-12">
-                <input type="text" class="form-control" id="name" placeholder="ชื่อ" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <input type="text" class="form-control" id="surname" placeholder="นามสกุล" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <input type="text" class="form-control" id="school" placeholder="สถาบัน" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <input type="email" placeholder="อีเมล" class="form-control" id="email" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <input type="tel" placeholder="โทรศัพท์" class="form-control" id="telephone" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <input type="text" placeholder="อาหารที่แพ้" class="form-control" id="allergy" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
-            </div>
-        </div>
-        <button type="submit" class="btn btn-default btn-submit">สมัครเข้าร่วม</button>
-    </form>
+
+<div>
+    <p><b>หมายเหตุ:</b></p>
+    <ul>
+        <li>ที่นั่งมีจำนวนจำกัด</li>
+        <li>หากผู้เข้าร่วมการอบรมมีคอมพิวเตอร์ส่วนตัว กรุณานำมาเพื่อการอบรมที่เต็มประสิทธิภาพ</li>
+        <li>ลงทะเบียนเข้าร่วมการอบรมเพียงครั้งเดียวต่อการเข้าร่วมการอบรมทั้ง 4 วัน</li>
+    </ul>
 </div>
