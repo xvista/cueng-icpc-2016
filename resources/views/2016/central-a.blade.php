@@ -67,15 +67,7 @@
         </div>
     </div>
 </section>
-
-<footer>
-    <div class="footer-above">
-        
-    </div>
-    <div class="footer-below">
-        <span class="copyright-text">Copyright © 2016 - <a href="{{ url('https://www.cp.eng.chula.ac.th/') }}">Computer Engineering, Chulalongkorn University</a></span>
-    </div>
-</footer>
+@include('footer')
 @endsection
 
 @section('script')

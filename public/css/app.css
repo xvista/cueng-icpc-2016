@@ -6,6 +6,9 @@ footer .footer-above {
   color: #ffffff;
   background-color: #00719c;
 }
+footer .footer-above .director-link {
+  color: #ff9000;
+}
 footer .footer-below {
   text-align: center;
   color: #ffffff;
@@ -111,6 +114,9 @@ footer .footer-above {
   text-align: center;
   color: #ffffff;
   background-color: #00719c;
+}
+footer .footer-above .director-link {
+  color: #ff9000;
 }
 footer .footer-below {
   text-align: center;
@@ -225,6 +231,9 @@ footer .footer-above {
   text-align: center;
   color: #ffffff;
   background-color: #00719c;
+}
+footer .footer-above .director-link {
+  color: #ff9000;
 }
 footer .footer-below {
   text-align: center;

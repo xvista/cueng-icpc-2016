@@ -37,21 +37,5 @@
         </div>
     </div>
 </section>
-
-<footer>
-    <div class="footer-above">
-        <div class="col-md-4">
-            <h1>HELLO</h1>
-        </div>
-        <div class="col-md-4">
-            <h1>HELLO</h1>
-        </div>
-        <div class="col-md-4">
-            <h1>HELLO</h1>
-        </div>
-    </div>
-    <div class="footer-below">
-        <span class="copyright-text">Copyright © 2016 - <a href="{{ url('https://www.cp.eng.chula.ac.th/') }}">Computer Engineering, Chulalongkorn University</a></span>
-    </div>
-</footer>
+@include('footer')
 @endsection
