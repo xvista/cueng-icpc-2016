@@ -24,8 +24,8 @@
             <li><a href="#registration" data-toggle="pill">Registration</a></li>
             <li><a href="#map" data-toggle="pill">Maps & Accomodations</a></li>
             <li><a href="#contestant" data-toggle="pill">Contestant Information</a></li>
-            <li><a href="#results" data-toggle="pill">Results</a></li>
-            <li><a href="#gallery" data-toggle="pill">Gallery</a></li>
+            {{-- <li><a href="#results" data-toggle="pill">Results</a></li> --}}
+            {{-- <li><a href="#gallery" data-toggle="pill">Gallery</a></li> --}}
             <li><a href="#contact" data-toggle="pill">Contact</a></li> 
         </ul>
     </div>
