@@ -85,7 +85,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <input type="text" placeholder="โทรศัพท์" class="form-control" id="telephone" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
+                <input type="tel" placeholder="โทรศัพท์" class="form-control" id="telephone" oninvalid="this.setCustomValidity('โปรดกรอกข้อมูลในช่องนี้')">
             </div>
         </div>
         <div class="row">
