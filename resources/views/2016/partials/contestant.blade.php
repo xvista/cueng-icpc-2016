@@ -9,9 +9,9 @@
     <li><b>Compiler command line:</b></li>
     <li>
         <ul>
-            <li>GNU C gcc -g -O2 -std=gnu99 -static $* -lm</li>
-            <li>GNU C++ g++ -g -O2 -std=gnu++0x -static $*</li>
-            <li>Java javac -encoding UTF-8 -sourcepath . -d . $*</li>
+            <li>GNU C <code>gcc -g -O2 -std=gnu99 -static $* -lm</code></li>
+            <li>GNU C++ <code>g++ -g -O2 -std=gnu++0x -static $*</code></li>
+            <li>Java <code>javac -encoding UTF-8 -sourcepath . -d . $*</code></li>
         </ul>
     </li>
     <li><b>Compiler Version:</b></li>
