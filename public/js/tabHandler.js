@@ -11,5 +11,5 @@
         var baseUrl = window.location.href.split('#')[0];
         window.location.replace(baseUrl + e.target.hash);
     });
-
+    
 })();

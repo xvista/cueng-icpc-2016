@@ -33,29 +33,29 @@
                 }
             }
         }
-        #prep-course-register-form{
-            .row{
-                padding-top: 5px;
-                padding-bottom: 5px;
+    }
+    #registration-form{
+        .row{
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+        input{
+            border-radius: 0px;
+            &:focus{
+                border: 2px solid @theme-shade-2;
+                box-shadow: none;
             }
-            input{
-                border-radius: 0px;
-                &:focus{
-                    border: 2px solid @theme-shade-2;
-                    box-shadow: none;
-                }
-            }
-            .btn-submit{
-                margin-top: 5px;
-                border-radius: 0px;
-                border: none;
-                background-color: @theme-shade-2;
-                color: @white;
-                width: 100%;
-                .nice-transition();
-                &:hover{
-                    background-color: @theme-shade-3;
-                }
+        }
+        .btn-submit{
+            margin-top: 5px;
+            border-radius: 0px;
+            border: none;
+            background-color: @theme-shade-2;
+            color: @white;
+            width: 100%;
+            .nice-transition();
+            &:hover{
+                background-color: @theme-shade-3;
             }
         }
     }
