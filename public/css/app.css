@@ -87,6 +87,9 @@ footer .footer-below .copyright-text a {
     text-align: center;
   }
 }
+#central-a-contest .nav-pills .active a {
+  background-color: #009bd6;
+}
 #central-a-contest #prep-course table .table-header {
   color: #ffffff;
   background-color: #00719c;
