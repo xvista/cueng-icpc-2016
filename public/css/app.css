@@ -72,6 +72,12 @@ footer .footer-below .copyright-text a {
     padding-bottom: 40px;
   }
 }
+@media (max-width: 768px) {
+  #central-a-contest {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
 #central-a-contest .section-header {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -89,6 +95,11 @@ footer .footer-below .copyright-text a {
 }
 #central-a-contest .nav-pills .active a {
   background-color: #009bd6;
+}
+@media (max-width: 768px) {
+  #central-a-contest .nav-pills {
+    padding-bottom: 10px;
+  }
 }
 #central-a-contest #prep-course table .table-header {
   color: #ffffff;
@@ -124,6 +135,17 @@ footer .footer-below .copyright-text a {
 }
 #central-a-contest #registration-form .nav-tabs {
   margin-top: 10px;
+  font-size: 12px;
+}
+@media (max-width: 768px) {
+  #central-a-contest #registration-form .nav-tabs {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: -webkit-box;
+  }
+}
+#central-a-contest #registration-form .nav-tabs li {
+  float: none;
 }
 #central-a-contest #registration-form .tab-content {
   padding-left: 15px;

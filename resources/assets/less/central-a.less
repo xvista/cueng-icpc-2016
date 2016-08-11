@@ -3,6 +3,10 @@
 #central-a-contest {
     .section-style();
     padding: 25px 0 25px 0;
+    @media (max-width: 768px) {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
     .section-header{
         margin-top: 10px;
         margin-bottom: 10px;
@@ -21,6 +25,9 @@
             a{
                 background-color: @theme-shade-1;
             }
+        }
+        @media (max-width: 768px) {
+            padding-bottom: 10px;
         }
     }
     #prep-course{
@@ -61,6 +68,15 @@
         }
         .nav-tabs{
             margin-top: 10px;
+            font-size: 12px;
+            @media (max-width: 768px) {
+                overflow-x: auto;
+                overflow-y: hidden;
+                display: -webkit-box;
+            }
+            li{
+                float: none;
+            }
         }
         .tab-content{
             padding-left: 15px;
