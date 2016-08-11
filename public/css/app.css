@@ -144,8 +144,10 @@ footer .footer-below .copyright-text a {
     display: -webkit-box;
   }
 }
-#central-a-contest #registration-form .nav-tabs li {
-  float: none;
+@media (max-width: 768px) {
+  #central-a-contest #registration-form .nav-tabs li {
+    float: none;
+  }
 }
 #central-a-contest #registration-form .tab-content {
   padding-left: 15px;
