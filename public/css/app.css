@@ -114,13 +114,23 @@ footer .footer-below .copyright-text a {
   border: none;
   background-color: #00719c;
   color: #ffffff;
-  width: 100%;
   transition: all .35s;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
 }
 #central-a-contest #registration-form .btn-submit:hover {
   background-color: #00415a;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+#central-a-contest #registration-form .tab-content {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 
 body {
