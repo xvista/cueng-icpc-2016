@@ -98,8 +98,8 @@ footer .footer-below .copyright-text a {
   font-weight: 200;
 }
 #central-a-contest #registration-form .row {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 #central-a-contest #registration-form input {
   border-radius: 0px;
@@ -126,6 +126,7 @@ footer .footer-below .copyright-text a {
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 15px;
+  margin-bottom: 10px;
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
   border-bottom: 1px solid #ddd;

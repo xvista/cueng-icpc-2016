@@ -13,10 +13,10 @@
             </div>
         </div>
         <ul class="nav nav-tabs">
-            <li class="active"><a href="#member1-form" role="tab" data-toggle="tab">สมาชิกทีมคนที่ 1</a></li>
-            <li><a href="#member2-form" role="tab" data-toggle="tab">สมาชิกทีมคนที่ 2</a></li>
-            <li><a href="#member3-form" role="tab" data-toggle="tab">สมาชิกทีมคนที่ 3</a></li>
-            <li><a href="#coach-form" role="tab" data-toggle="tab">อาจารย์ผู้ควบคุมทีม</a></li>            
+            <li class="active"><a href="##member1-form">สมาชิกทีมคนที่ 1</a></li>
+            <li><a href="##member2-form">สมาชิกทีมคนที่ 2</a></li>
+            <li><a href="##member3-form">สมาชิกทีมคนที่ 3</a></li>
+            <li><a href="##coach-form">อาจารย์ผู้ควบคุมทีม</a></li>            
         </ul>
         <div class="tab-content">
             <div id="member1-form" class="tab-pane active">

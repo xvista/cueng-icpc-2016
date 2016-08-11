@@ -15,4 +15,10 @@
         window.location.replace(baseUrl + e.target.hash);
     });
 
+    $('#registration-form .nav-tabs a').click(function (e) {
+        e.preventDefault();
+        console.log(this);
+        $(this).tab('show');
+    });
+
 })();
