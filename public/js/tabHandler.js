@@ -2,7 +2,7 @@
     var url = document.location.toString();
     var splitted = url.split('#');
     if (splitted.length > 1) {
-        var tab = splitted[1];
+        var tab = splitted[splitted.length - 1];
         if (tab === 'member1-form' || tab === 'member2-form' || tab === 'member3-form') {
             tab = 'registration';
         }
@@ -17,7 +17,6 @@
 
     $('#registration-form .nav-tabs a').click(function (e) {
         e.preventDefault();
-        console.log(this);
         $(this).tab('show');
     });
 
