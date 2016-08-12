@@ -3,7 +3,7 @@
 #central-a-contest {
     .section-style();
     padding: 25px 0 25px 0;
-    @media (max-width: 768px) {
+    @media (max-width: 1024px) {
         padding-top: 20px;
         padding-bottom: 20px;
     }
@@ -15,7 +15,7 @@
         text-align: left;
         h3{
             font-weight: 700;
-            @media (max-width:768px) {
+            @media (max-width: 1024px) {
                 text-align: center;
             }
         }
@@ -26,11 +26,11 @@
                 background-color: @theme-shade-1;
             }
         }
-        @media (max-width: 768px) {
+        @media (max-width: 1024px) {
             padding-bottom: 10px;
         }
     }
-    #prep-course{
+    #prep-course, #schedule, #map{
         table{
             .table-header{
                 color: @white;
@@ -38,6 +38,14 @@
                 th{
                     font-weight: 200;
                 }
+            }
+        }
+    }
+    #schedule{
+        table{
+            width: 70%;
+            @media (max-width: 1024px) {
+                width: 100%;
             }
         }
     }
@@ -69,13 +77,13 @@
         .nav-tabs{
             margin-top: 10px;
             font-size: 12px;
-            @media (max-width: 768px) {
+            @media (max-width: 1024px) {
                 overflow-x: auto;
                 overflow-y: hidden;
                 display: -webkit-box;
             }
             li{
-                @media (max-width: 768px) {  
+                @media (max-width: 1024px) {  
                     float: none;
                 }
             }

@@ -72,7 +72,7 @@ footer .footer-below .copyright-text a {
     padding-bottom: 40px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #central-a-contest {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -88,7 +88,7 @@ footer .footer-below .copyright-text a {
 #central-a-contest .tab-content h3 {
   font-weight: 700;
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #central-a-contest .tab-content h3 {
     text-align: center;
   }
@@ -96,17 +96,29 @@ footer .footer-below .copyright-text a {
 #central-a-contest .nav-pills .active a {
   background-color: #009bd6;
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #central-a-contest .nav-pills {
     padding-bottom: 10px;
   }
 }
-#central-a-contest #prep-course table .table-header {
+#central-a-contest #prep-course table .table-header,
+#central-a-contest #schedule table .table-header,
+#central-a-contest #map table .table-header {
   color: #ffffff;
   background-color: #00719c;
 }
-#central-a-contest #prep-course table .table-header th {
+#central-a-contest #prep-course table .table-header th,
+#central-a-contest #schedule table .table-header th,
+#central-a-contest #map table .table-header th {
   font-weight: 200;
+}
+#central-a-contest #schedule table {
+  width: 70%;
+}
+@media (max-width: 1024px) {
+  #central-a-contest #schedule table {
+    width: 100%;
+  }
 }
 #central-a-contest #registration-form .row {
   padding-top: 10px;
@@ -137,14 +149,14 @@ footer .footer-below .copyright-text a {
   margin-top: 10px;
   font-size: 12px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #central-a-contest #registration-form .nav-tabs {
     overflow-x: auto;
     overflow-y: hidden;
     display: -webkit-box;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #central-a-contest #registration-form .nav-tabs li {
     float: none;
   }
