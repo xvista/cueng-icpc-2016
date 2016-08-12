@@ -5,9 +5,14 @@ footer .footer-above {
   text-align: center;
   color: #ffffff;
   background-color: #00719c;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 footer .footer-above .director-link {
   color: #ff9000;
+}
+footer .footer-above h2 {
+  margin-bottom: 20px;
 }
 footer .footer-below {
   text-align: center;
@@ -180,9 +185,14 @@ footer .footer-above {
   text-align: center;
   color: #ffffff;
   background-color: #00719c;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 footer .footer-above .director-link {
   color: #ff9000;
+}
+footer .footer-above h2 {
+  margin-bottom: 20px;
 }
 footer .footer-below {
   text-align: center;
@@ -303,9 +313,14 @@ footer .footer-above {
   text-align: center;
   color: #ffffff;
   background-color: #00719c;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 footer .footer-above .director-link {
   color: #ff9000;
+}
+footer .footer-above h2 {
+  margin-bottom: 20px;
 }
 footer .footer-below {
   text-align: center;
