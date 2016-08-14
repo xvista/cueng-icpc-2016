@@ -245,12 +245,24 @@ footer .footer-below .copyright-text a {
   color: #ffffff;
   margin-bottom: 10px;
 }
+.sponsor-header {
+  text-align: center;
+}
+.sponsor-header img {
+  margin: 10px auto;
+}
 .welcoming-section {
   color: #ffffff;
   background-color: #0095ff;
+  background-image: url('../img/acm-icpc-logo-white-fade.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Aero Matics', sans-serif;
+  text-transform: uppercase;
   text-align: center;
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 90px;
 }
 @media (max-width: 768px) {
   .welcoming-section {
@@ -266,6 +278,10 @@ footer .footer-below .copyright-text a {
     width: 60%;
   }
 }
+.welcoming-section .logo-acm-icpc-long {
+  width: 60%;
+  margin-bottom: 20px;
+}
 .welcoming-section .contest-title {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -273,12 +289,18 @@ footer .footer-below .copyright-text a {
   font-size: 3em;
 }
 .welcoming-section .contest-description {
-  margin-bottom: 20px;
-  margin-top: 0px;
-  font-size: 1.5em;
+  margin-top: 25px;
+  font-size: 2em;
+}
+@media (max-width: 768px) {
+  .welcoming-section .contest-description {
+    margin-top: 15px;
+    font-size: 1.5em;
+  }
 }
 .welcoming-section #central-a-button {
   font-size: 20px;
+  margin-top: 20px;
 }
 .section-header {
   margin-bottom: 25px;

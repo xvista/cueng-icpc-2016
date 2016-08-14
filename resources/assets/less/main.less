@@ -2,15 +2,31 @@
 
 
 // Main Site Style
+.sponsor-header {
+    text-align: center;
+    img {
+        margin: 10px auto;
+    }
+}
 .welcoming-section {
     color: @white;
     background-color: @main-theme;
+    background-image: url('../img/acm-icpc-logo-white-fade.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Aero Matics', sans-serif;
+    text-transform: uppercase;
     .section-header-style();
     .contest-logo{
         width: 200px;
         @media (max-width: 768px) {
             width: 60%;
         }
+    }
+    .logo-acm-icpc-long {
+        width: 60%;
+        margin-bottom: 20px;
     }
     .contest-title{
         margin-top: 20px;
@@ -19,12 +35,18 @@
         font-size: 3em;
     }
     .contest-description{
-        margin-bottom: 20px;
-        margin-top: 0px;
-        font-size: 1.5em;        
+        // margin-bottom: 20px;
+        // font-weight: 200;
+        margin-top: 25px;
+        font-size: 2em;
+        @media (max-width: 768px) {
+            margin-top: 15px;
+            font-size: 1.5em;
+        }
     }
     #central-a-button{
         font-size: 20px;
+        margin-top: 20px;
     }
 }
 
@@ -33,7 +55,7 @@
 }
 #upcoming-event-section {
     .section-style();
-    
+
 }
 
 #archived-event-section {
