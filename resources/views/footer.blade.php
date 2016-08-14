@@ -11,13 +11,19 @@
             </div>
             <div class="col-md-3 col-xs-12">
                 <h2>Director</h2>
-                <p><b>Asia Director</b></p>
-                <p><a href="http://icpcasia.blogspot.com/" target="_blank" class="director-link">Dr.C J Hwang</a></p>
-                <p><b>Thailand Central B Director</b></p>
-                <p>Prof.Dr. Prabhas Chongstitvatana</p>
+                <p>
+                    <b>Asia Director</b><br>
+                    <a href="http://icpcasia.blogspot.com/" target="_blank" class="director-link">Dr.C J Hwang</a>
+                </p>
+                <p>
+                    <b>Thailand Central A Director</b><br>
+                    Prof.Dr. Prabhas Chongstitvatana
+                </p>
             </div>
             <div class="col-md-3 col-xs-12">
                 <h2>Other Links</h2>
+                <p><a href="https://icpc.baylor.edu" target="_blank" class="director-link">ACM-ICPC Official Site</a></p>
+                <p><a href="https://www.facebook.com/icpc.eng.chula/" target="_blank" class="director-link">Facebook ACM-ICPC at Chula Engineering</a></p>
             </div>
             {{-- <div class="col-xs-12">
                 <h2>Sponsor</h2>
