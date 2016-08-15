@@ -71,6 +71,6 @@
 @include('footer')
 @endsection
 
-@section('script')
+@push('script')
 <script src="{{ asset('js/tabHandler.js') }}"></script>
-@endsection
+@endpush

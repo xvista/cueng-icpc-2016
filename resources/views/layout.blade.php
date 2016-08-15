@@ -28,6 +28,6 @@
     @yield('content')
     <script src="{{ asset('libs/jquery-2.2.4.min.js') }}"></script>
     <script src="{{ asset('libs/bootstrap/js/bootstrap.min.js') }}"></script>
-    @yield('script')
+    @stack('script')
 </body>
 </html>
