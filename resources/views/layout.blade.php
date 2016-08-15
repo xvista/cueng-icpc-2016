@@ -18,6 +18,7 @@
     @yield('css')
 </head>
 <body>
+    @include('google-analytics')
     <div class="sponsor-header container-fluid">
         <div class="col-md-12">
             <a href="{{ url('/') }}">
