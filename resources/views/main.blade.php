@@ -1,5 +1,36 @@
 @extends('layout')
 
+@section('meta')
+<meta name="description" content="The ACM International Collegiate Programming Contest (ICPC) is a multi-tiered competitive programming competition among the universities. Chula Engineering is one of the ACM-ICPC host in Thailand.">
+<meta name="author" content="Chula Engineering">
+
+<meta property="og:title" content="ACM-ICPC by Chula Engineering">
+<meta property="og:site_name" content="ACM-ICPC by Chula Engineering">
+<meta property="og:url" content="https://www.acm-icpc.eng.chula.ac.th/2016/">
+<meta property="og:description" content="The ACM International Collegiate Programming Contest (ICPC) is a multi-tiered competitive programming competition among the universities. Chula Engineering is one of the ACM-ICPC host in Thailand." />
+<meta property="og:image" content="{{ asset('img/acm-icpc-chula-meta.jpg') }}">
+@endsection
+
+@section('favicon')
+<link rel="apple-touch-icon" sizes="57x57" href="{{ asset('img/favicon/main/apple-icon-57x57.png') }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ asset('img/favicon/main/apple-icon-60x60.png') }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/favicon/main/apple-icon-72x72.png') }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ asset('img/favicon/main/apple-icon-76x76.png') }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/favicon/main/apple-icon-114x114.png') }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ asset('img/favicon/main/apple-icon-120x120.png') }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ asset('img/favicon/main/apple-icon-144x144.png') }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ asset('img/favicon/main/apple-icon-152x152.png') }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicon/main/apple-icon-180x180.png') }}">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ asset('img/favicon/main/android-icon-192x192.png') }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ asset('img/favicon/main/favicon-32x32.png') }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ asset('img/favicon/main/favicon-96x96.png') }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/main/favicon-16x16.png') }}">
+<link rel="manifest" href="{{ asset('img/favicon/main/manifest.json') }}">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="{{ asset('img/favicon/main/ms-icon-144x144.png') }}">
+<meta name="theme-color" content="#ffffff">
+@endsection
+
 @section('content')
 <header>
     <div id="central-a-contest-section" class="welcoming-section container-fluid">

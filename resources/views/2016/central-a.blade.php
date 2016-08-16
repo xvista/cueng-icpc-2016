@@ -2,23 +2,34 @@
 
 @section('title', '2016 ACM-ICPC Thailand Central Group A Programming Contest')
 
+@section('meta')
+<meta name="description" content="การแข่งขันเขียนโปรแกรมคอมพิวเตอร์ ACM-ICPC ระดับภูมิภาค ภาคกลางเขต 1 ปี 2559 11 กันยายน 2559 ณ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย">
+<meta name="author" content="Chula Engineering">
+
+<meta property="og:title" content="2016 ACM-ICPC Thailand Central Group A Programming Contest">
+<meta property="og:site_name" content="ACM-ICPC by Chula Engineering">
+<meta property="og:url" content="https://www.acm-icpc.eng.chula.ac.th/2016">
+<meta property="og:description" content="การแข่งขันเขียนโปรแกรมคอมพิวเตอร์ ACM-ICPC ระดับภูมิภาค ภาคกลางเขต 1 ปี 2559 11 กันยายน 2559 ณ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย" />
+<meta property="og:image" content="{{ asset('img/acm-icpc-thailand-central-a-meta.jpg') }}">
+@endsection
+
 @section('favicon')
-<link rel="apple-touch-icon" sizes="57x57" href="{{ asset('img/favicon/apple-icon-57x57.png') }}">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ asset('img/favicon/apple-icon-60x60.png') }}">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/favicon/apple-icon-72x72.png') }}">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ asset('img/favicon/apple-icon-76x76.png') }}">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/favicon/apple-icon-114x114.png') }}">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ asset('img/favicon/apple-icon-120x120.png') }}">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ asset('img/favicon/apple-icon-144x144.png') }}">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ asset('img/favicon/apple-icon-152x152.png') }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicon/apple-icon-180x180.png') }}">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{ asset('img/favicon/android-icon-192x192.png') }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ asset('img/favicon/favicon-32x32.png') }}">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ asset('img/favicon/favicon-96x96.png') }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/favicon-16x16.png') }}">
-<link rel="manifest" href="{{ asset('img/favicon/manifest.json') }}">
+<link rel="apple-touch-icon" sizes="57x57" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-57x57.png') }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-60x60.png') }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-72x72.png') }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-76x76.png') }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-114x114.png') }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-120x120.png') }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-144x144.png') }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-152x152.png') }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicon/2016-thailand-central-a/apple-icon-180x180.png') }}">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ asset('img/favicon/2016-thailand-central-a/android-icon-192x192.png') }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ asset('img/favicon/2016-thailand-central-a/favicon-32x32.png') }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ asset('img/favicon/2016-thailand-central-a/favicon-96x96.png') }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/2016-thailand-central-a/favicon-16x16.png') }}">
+<link rel="manifest" href="{{ asset('img/favicon/2016-thailand-central-a/manifest.json') }}">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ asset('img/favicon/ms-icon-144x144.png') }}">
+<meta name="msapplication-TileImage" content="{{ asset('img/favicon/2016-thailand-central-a/ms-icon-144x144.png') }}">
 <meta name="theme-color" content="#ffffff">
 @endsection
 

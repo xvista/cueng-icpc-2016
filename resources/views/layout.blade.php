@@ -3,14 +3,15 @@
 <head>
     <meta charset="utf-8"></meta>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    @yield('meta')
     <title>
-    @if ($__env->yieldContent('title'))
-        @yield('title')
-        | ACM-ICPC by Chula Engineering
-    @else
-       ACM-ICPC by Chula Engineering
-    @endif
-</title>
+        @if ($__env->yieldContent('title'))
+            @yield('title')
+            | ACM-ICPC by Chula Engineering
+        @else
+           ACM-ICPC by Chula Engineering
+        @endif
+    </title>
     <link href="{{ asset('libs/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
     <link href="{{ asset('css/font-aero-matics.css') }}" rel="stylesheet" type="text/css">
