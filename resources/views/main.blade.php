@@ -6,7 +6,7 @@
 
 <meta property="og:title" content="ACM-ICPC by Chula Engineering">
 <meta property="og:site_name" content="ACM-ICPC by Chula Engineering">
-<meta property="og:url" content="https://www.acm-icpc.eng.chula.ac.th/2016/">
+<meta property="og:url" content="https://www.acm-icpc.eng.chula.ac.th/2016">
 <meta property="og:description" content="The ACM International Collegiate Programming Contest (ICPC) is a multi-tiered competitive programming competition among the universities. Chula Engineering is one of the ACM-ICPC host in Thailand." />
 <meta property="og:image" content="{{ asset('img/acm-icpc-chula-meta.jpg') }}">
 @endsection
