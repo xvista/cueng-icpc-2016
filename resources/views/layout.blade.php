@@ -15,6 +15,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
     <link href="{{ asset('css/font-aero-matics.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
+    @yield('favicon')
     @yield('css')
 </head>
 <body>
