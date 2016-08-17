@@ -16,7 +16,7 @@ elixir.config.css.autoprefix = {
 };
 
 elixir(function (mix) {
-    mix.less('**/*.less')
+    mix.less('**/*.less').version('css/app.css');
     connectPHP.server({
         base: './public',
         hostname: '0.0.0.0',
