@@ -64,7 +64,7 @@ class AcmIcpc2016ThailandCentralAController extends Controller
         $coach = null;
         if (isset($input['coach-registered']) && $input['coach-registered'] === 'registered') {
             try {
-                $coach_id = Participant::where('email', $input['coach-email'])->firstOrFail();
+                $coach_id = (Participant::where('email', $input['coach-email'])->firstOrFail())->id;
             } catch (\Illuminate\Database\Eloquent\ModelNotFoundException $e) {
                 $coach_id = null;
                 return redirect('2016/thailand/central-a#registration')->with('register-error', 'อีเมลของอาจารย์ผู้ควบคุมทีมยังไม่มีในระบบ');
