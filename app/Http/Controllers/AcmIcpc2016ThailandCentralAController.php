@@ -18,6 +18,11 @@ class AcmIcpc2016ThailandCentralAController extends Controller
     public function register(Request $request)
     {
         $input = $request->all();
+        array_walk_recursive($input, function(&$in) {
+            $in = trim($in);
+        });
+        $request->merge($input);
+
         $contestants[] = [
             'type' => 'contestant',
             'title_th' => $input['member1-title-th'],
@@ -67,7 +72,7 @@ class AcmIcpc2016ThailandCentralAController extends Controller
                 $coach_id = (Participant::where('email', $input['coach-email'])->firstOrFail())->id;
             } catch (\Illuminate\Database\Eloquent\ModelNotFoundException $e) {
                 $coach_id = null;
-                return redirect('2016/thailand/central-a#registration')->with('register-error', 'อีเมลของอาจารย์ผู้ควบคุมทีมยังไม่มีในระบบ');
+                return redirect('2016/thailand/central-a#registration')->with('register-error', 'อีเมลของอาจารย์ผู้ควบคุมทีมยังไม่มีในระบบ')->withInput();
             }
         } else {
             $coach = [
@@ -86,7 +91,9 @@ class AcmIcpc2016ThailandCentralAController extends Controller
             ];
         }
 
-        DB::transaction(function() use ($contestants, $coach, $input, $coach_id) {
+        $error = null;
+        DB::beginTransaction();
+        try {
             foreach ($contestants as $contestant) {
                 $contestant_ids[] = (Participant::create($contestant))->id;
             }
@@ -102,8 +109,29 @@ class AcmIcpc2016ThailandCentralAController extends Controller
                 'coach_id' => $coach_id,
             ];
             Team::create($team);
-        });
+            DB::commit();
+        } catch (\Illuminate\Database\QueryException $e) {
+            DB::rollBack();
+            $errorCode = $e->errorInfo[1];
+            $errorDescription = $e->errorInfo[2];
+            // 1062 is MySQL error code for unique key duplication
+            if ($errorCode == 1062) {
+                if (strpos($errorDescription, 'teams_name_unique') !== false) {
+                    $error = 'ชื่อทีมซ้ำ กรุณาเลือกชื่อทีมใหม่';
+                } elseif (strpos($errorDescription, 'participants_email_unique') !== false) {
+                    $error = 'สำหรับผู้ที่สมัครเป็นครั้งแรก โปรดกรอกอีเมลที่ยังไม่เคยลงทะเบียนเท่านั้น';
+                } else {
+                    $error = 'ข้อมูลบางอย่างผิดพลาด';
+                }
+            } else {
+                $error = 'โปรดตรวจสอบข้อมูลอีกครั้งว่ากรอกครบถ้วนสมบูรณ์และถูกต้องทุกประการ';
+            }
+        }
 
-        return redirect('2016/thailand/central-a#registration')->with('register-success', 'การลงทะเบียนเสร็จสมบูรณ์');
+        if (is_null($error) === false) {
+            return redirect('2016/thailand/central-a#registration')->with('register-error', $error)->withInput();
+        } else {
+            return redirect('2016/thailand/central-a#registration')->with('register-success', 'การลงทะเบียนเสร็จสมบูรณ์');
+        }
     }
 }
