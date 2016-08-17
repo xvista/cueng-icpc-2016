@@ -1,6 +1,6 @@
 <h3>Schedule</h3>
 <p>กำหนดการแข่งขัน ACM-ICPC Thailand ระดับภูมิภาค ภาคกลาง เขต 1 ประจำปี 2559</p>
-<p>วันเสาร์ที่ 11 กันยายน 2559</p>
+<p>วันอาทิตย์ที่ 11 กันยายน 2559</p>
 
 <table class="table table-bordered">
     <tr class="table-header">
