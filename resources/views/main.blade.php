@@ -47,8 +47,10 @@
 <section id="upcoming-event-section">
     <h1 class="section-header">Upcoming Event</h1>
     <div class="container">
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4 upcoming-card">
             <img src="{{ asset('img/upcoming-asia-bangkok.png') }}" class="img-responsive" title="2016 ACM-ICPC Asia Bangkok Regional Contest" alt="2016 ACM-ICPC Asia Bangkok Regional Contest">
+            <p>November 10-12, 2016<br>
+            <small>Please stay tuned!</small></p>
         </div>
     </div>
 </section>

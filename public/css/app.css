@@ -316,6 +316,16 @@ footer .footer-below .copyright-text a {
     padding-bottom: 40px;
   }
 }
+#upcoming-event-section .upcoming-card {
+  font-family: 'Aero Matics', sans-serif;
+  color: #aaa;
+  font-size: 1.75em;
+  text-transform: uppercase;
+}
+#upcoming-event-section .upcoming-card p {
+  margin-top: 20px;
+  line-height: 1em;
+}
 #archived-event-section {
   text-align: center;
   padding-top: 50px;
