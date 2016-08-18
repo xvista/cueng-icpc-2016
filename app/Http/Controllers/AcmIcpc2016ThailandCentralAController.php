@@ -134,4 +134,18 @@ class AcmIcpc2016ThailandCentralAController extends Controller
             return redirect('2016/thailand/central-a#registration')->with('register-success', 'การลงทะเบียนเสร็จสมบูรณ์');
         }
     }
+
+    public function adminLogin() {
+        return view('2016.login');
+    }
+
+    public function adminShow(Request $request) {
+        $input = $request->all();
+        if ($input['password'] !== env('THAILAND_CENTRAL_A_PASSWORD')) {
+            return redirect('2016/thailand/central-a/admin')->with('login-error', 'YOU LIAR!');
+        }
+
+        $teams = Team::all();
+        return view('2016.admin', compact('teams'));
+    }
 }
