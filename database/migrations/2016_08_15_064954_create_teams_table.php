@@ -12,16 +12,16 @@ class CreateTeamsTable extends Migration
      */
     public function up()
     {
-        Schema::create('teams', function (Blueprint $table) {
-            $table->increments('id');
-            $table->string('name', 100)->unique();
-            $table->string('institute', 150);
-            $table->integer('contestant_1_id')->references('id')->on('participants');
-            $table->integer('contestant_2_id')->references('id')->on('participants');
-            $table->integer('contestant_3_id')->references('id')->on('participants');
-            $table->integer('coach_id')->references('id')->on('participants');
-            $table->timestamps();
-        });
+        // Schema::create('teams', function (Blueprint $table) {
+        //     // $table->increments('id');
+        //     // $table->string('name', 100)->unique();
+        //     // $table->string('institute', 150);
+        //     // $table->integer('contestant_1_id')->references('id')->on('participants');
+        //     // $table->integer('contestant_2_id')->references('id')->on('participants');
+        //     // $table->integer('contestant_3_id')->references('id')->on('participants');
+        //     // $table->integer('coach_id')->references('id')->on('participants');
+        //     // $table->timestamps();
+        // });
     }
 
     /**
@@ -31,6 +31,6 @@ class CreateTeamsTable extends Migration
      */
     public function down()
     {
-        Schema::drop('teams');
+        // Schema::drop('teams');
     }
 }

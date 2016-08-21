@@ -9,7 +9,7 @@
         <th>สถานที่</th>
         <th>หัวข้อการอบรม</th>
         <th>วิทยากร</th>
-        <th>เอกสารประกอบการอบรม</th>        
+        <th>เอกสารประกอบการอบรม</th>
     </tr>
     <tr>
         <td>วันเสาร์ 27 สิงหาคม 2559</td>
@@ -62,3 +62,38 @@
 </table>
 
 <p><a href="https://goo.gl/maps/KgA9n" target="_blank">คลิกที่นี่เพื่อดูตำแหน่งสถานที่ใน Google Maps</a></p>
+
+<div class="col-md-8 col-md-offset-2">
+    <p>ผู้สนใจสามารถลงทะเบียนเข้าร่วมการอบรมได้จากแบบฟอร์มต่อไปนี้</p>
+</div>
+<div class="col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
+    @if (session('register-success'))
+        <div id="prep-course-submit-success" class="alert alert-success prep-course-alert">
+            {{ session('register-success') }}
+        </div>
+    @endif
+    @if (session('register-error'))
+        <div id="prep-course-submit-error" class="alert alert-danger prep-course-alert">
+            {{ session('register-error') }}
+        </div>
+    @endif
+    <form class="form prep-course-form" id="prep-course-form" method="post" action="{{ url('2016/thailand/central-a/prep-course/register') }}">
+        {{ csrf_field() }}
+        <input class="form-control" type="text" id="name" name="name" placeholder="ชื่อ" value="{{ old('name') }}" required>
+        <input class="form-control" type="text" id="surname" name="surname" placeholder="นามสกุล" value="{{ old('surname') }}" required>
+        <input class="form-control" type="text" id="institute" name="institute" placeholder="สถาบัน" value="{{ old('institute') }}" required>
+        <input class="form-control" type="email" id="email" name="email" placeholder="อีเมล" value="{{ old('email') }}" required>
+        <input class="form-control" type="tel" id="tel" name="tel" placeholder="โทรศัพท์" value="{{ old('tel') }}" required>
+        <button type="submit" id="prep-course-btn" class="btn btn-primary btn-block">สมัครเข้าร่วม</button>
+    </form>
+</div>
+<div class="col-md-8 col-md-offset-2">
+    <p>
+        <b>หมายเหตุ:</b>
+        <ul>
+            <li>ที่นั่งมีจำนวนจำกัด</li>
+            <li>หากผู้เข้าร่วมการอบรมมีคอมพิวเตอร์ส่วนตัว กรุณานำมาเพื่อการอบรมที่เต็มประสิทธิภาพ</li>
+            <li>ลงทะเบียนเข้าร่วมการอบรมเพียงครั้งเดียวต่อการเข้าร่วมการอบรมทั้ง 4 วัน</li>
+        </ul>
+    </p>
+</div>

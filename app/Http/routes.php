@@ -20,6 +20,7 @@ Route::get('2016', function () {
 });
 
 Route::get('2016/thailand/central-a', 'AcmIcpc2016ThailandCentralAController@index');
-Route::post('2016/thailand/central-a/register', 'AcmIcpc2016ThailandCentralAController@register');
+// Route::post('2016/thailand/central-a/register', 'AcmIcpc2016ThailandCentralAController@register');
+Route::post('2016/thailand/central-a/prep-course/register', 'AcmIcpc2016ThailandCentralAController@prepCourseRegister');
 Route::get('2016/thailand/central-a/admin', 'AcmIcpc2016ThailandCentralAController@adminLogin');
 Route::post('2016/thailand/central-a/admin', 'AcmIcpc2016ThailandCentralAController@adminShow');

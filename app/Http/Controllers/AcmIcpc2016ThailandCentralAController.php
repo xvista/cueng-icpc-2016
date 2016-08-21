@@ -4,8 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Requests;
-use App\Participant;
-use App\Team;
+use App\PrepCourseParticipant;
 use DB;
 
 class AcmIcpc2016ThailandCentralAController extends Controller
@@ -135,11 +134,45 @@ class AcmIcpc2016ThailandCentralAController extends Controller
         }
     }
 
-    public function adminLogin() {
+    public function prepCourseRegister(Request $request)
+    {
+        $input = $request->all();
+        array_walk_recursive($input, function(&$in) {
+            $in = trim($in);
+        });
+        $request->merge($input);
+
+        $error = null;
+        DB::beginTransaction();
+        try {
+            PrepCourseParticipant::create($input);
+            DB::commit();
+        } catch (\Illuminate\Database\QueryException $e) {
+            DB::rollBack();
+            $errorCode = $e->errorInfo[1];
+            $errorDescription = $e->errorInfo[2];
+            // 1062 is MySQL error code for unique key duplication
+            if ($errorCode == 1062) {
+                $error = 'ข้อมูลบางอย่างผิดพลาด';
+            } else {
+                $error = 'โปรดตรวจสอบข้อมูลอีกครั้งว่ากรอกครบถ้วนสมบูรณ์และถูกต้องทุกประการ';
+            }
+        }
+
+        if (is_null($error) === false) {
+            return redirect('2016/thailand/central-a#prep-course')->with('register-error', $error)->withInput();
+        } else {
+            return redirect('2016/thailand/central-a#prep-course')->with('register-success', 'การลงทะเบียนเสร็จสมบูรณ์');
+        }
+    }
+
+    public function adminLogin()
+    {
         return view('2016.login');
     }
 
-    public function adminShow(Request $request) {
+    public function adminShow(Request $request)
+    {
         $input = $request->all();
         if ($input['password'] !== env('THAILAND_CENTRAL_A_PASSWORD')) {
             return redirect('2016/thailand/central-a/admin')->with('login-error', 'YOU LIAR!');
