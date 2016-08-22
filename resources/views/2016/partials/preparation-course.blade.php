@@ -64,7 +64,7 @@
 <p><a href="https://goo.gl/maps/KgA9n" target="_blank">คลิกที่นี่เพื่อดูตำแหน่งสถานที่ใน Google Maps</a></p>
 
 <div class="col-md-8 col-md-offset-2">
-    <p>ผู้สนใจสามารถลงทะเบียนเข้าร่วมการอบรมได้จากแบบฟอร์มต่อไปนี้</p>
+    <p>ผู้สนใจสามารถลงทะเบียนเข้าร่วมการอบรมได้จากแบบฟอร์มต่อไปนี้ <b>รับจำนวนจำกัด ภายในวันพุธที่ 24 สิงหาคม 2559</b></p>
 </div>
 <div class="col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
     @if (session('register-success'))
