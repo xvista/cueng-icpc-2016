@@ -3,7 +3,7 @@
 <a class="btn btn-lg btn-primary btn-block" href="https://icpc.baylor.edu" target="_blank">คลิกเพื่อสมัครเข้าร่วม ACM-ICPC</a>
 
 <h3>วิธีการสมัครแข่งขัน</h3>
-<p>ทีมที่ต้องการเข้าร่วมการแข่งขันจะต้องทำการสมัครแข่งขันตามที่กำหนดไว้ในระบบของ ACM-ICPC โดยเข้าไปกรอกข้อมูลได้ที่ <a href="https://icpc.baylor.edu">https://icpc.baylor.edu</a> ภายในวันที่ <b>2 กันยายน 2559</b></p>
+<p>ทีมที่ต้องการเข้าร่วมการแข่งขันจะต้องทำการสมัครแข่งขันตามที่กำหนดไว้ในระบบของ ACM-ICPC โดยเข้าไปกรอกข้อมูลได้ที่ <a href="https://icpc.baylor.edu">https://icpc.baylor.edu</a> ภายในวันที่ <b>1 กันยายน 2559</b></p>
 
 <ol>
     <li>
