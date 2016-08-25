@@ -13,7 +13,7 @@
     </ul>
     <li><b>การแข่งขัน Thailand First Round Online</b> วันที่ 18 กันยายน 2559 โดย มหาวิทยาลัยมหาสารคาม</li>
     <li><b>การแข่งขัน Asia Thailand National On-site</b> วันที่ 17-18 ตุลาคม 2559 โดยมหาวิทยาลัยมหาสารคาม</li>
-    <li><b>การแข่งขัน Asia Bangkok Regional Contest</b> วันที่ 10-11 พฤศจิกายน 2559 โดยจุฬาลงกรณ์มหาวิทยาลัย</li>
+    <li><b>การแข่งขัน Asia Bangkok Regional Contest</b> วันที่ 11-13 พฤศจิกายน 2559 โดยจุฬาลงกรณ์มหาวิทยาลัย</li>
 </ul>
 
 <h3>วัตถุประสงค์</h3>
