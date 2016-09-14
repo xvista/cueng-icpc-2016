@@ -18,7 +18,7 @@
         <td>อบรมและฝึกซ้อมเทคนิคต่างๆ เพื่อการแข่งขัน</td>
         <td>ผศ.ดร.นัทที นิภานันท์</td>
         <td>
-            <a>
+            <a target="_blank" href="{{ asset('docs/2016-th-cen-a-prep-course/20160827-training-nattee.pdf') }}">
                 <span class="glyphicon glyphicon-download-alt"></span> Download
             </a>
         </td>
@@ -30,7 +30,7 @@
         <td>State Space Searching Algorithm</td>
         <td>ผศ.ดร.สุกรี สินธุภิญโญ</td>
         <td>
-            <a>
+            <a target="_blank" href="{{ asset('docs/2016-th-cen-a-prep-course/20160828-state-space-searching-sukree.pdf') }}">
                 <span class="glyphicon glyphicon-download-alt"></span> Download
             </a>
         </td>
@@ -42,7 +42,7 @@
         <td>String Matching Algorithm</td>
         <td>อาจารย์ ดร.พิชญะ สิทธีอมร</td>
         <td>
-            <a>
+            <a target="_blank" href="{{ asset('docs/2016-th-cen-a-prep-course/20160903-string-matching-pitchaya.pdf') }}">
                 <span class="glyphicon glyphicon-download-alt"></span> Download
             </a>
         </td>
@@ -54,7 +54,7 @@
         <td>Dynamic Programming</td>
         <td>ผศ.ดร.ณัฐพงศ์ ชินธเนศ</td>
         <td>
-            <a>
+            <a target="_blank" href="{{ asset('docs/2016-th-cen-a-prep-course/20160904-dynamic-nattapong.pdf') }}">
                 <span class="glyphicon glyphicon-download-alt"></span> Download
             </a>
         </td>
