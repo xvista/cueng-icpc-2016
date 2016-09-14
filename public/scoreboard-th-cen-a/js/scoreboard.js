@@ -1,5 +1,5 @@
 // config
-var resultsUrl = 'scoreboard.final.json';
+var resultsUrl = '../../../scoreboard-th-cen-a/scoreboard.final.json';
 var refreshInterval = 0;
 
 // global vars

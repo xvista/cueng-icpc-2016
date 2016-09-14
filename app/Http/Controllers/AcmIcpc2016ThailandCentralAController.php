@@ -14,6 +14,11 @@ class AcmIcpc2016ThailandCentralAController extends Controller
         return view('2016.central-a');
     }
 
+    public function scoreboard()
+    {
+        return view('2016.scoreboard');
+    }
+
     public function register(Request $request)
     {
         $input = $request->all();
