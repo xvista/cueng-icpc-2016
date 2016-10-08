@@ -227,7 +227,7 @@
         </tr>
     </tbody>
 </table>
-<h4>Problems &amps; Testcases</h4>
+<h4>Problems &amp; Testcases</h4>
 <a class="btn btn-lg btn-primary" href="{{ url('docs/2016-th-cen-a/2016-ACM-ICPC-Central-A-Task-Contest-Session.pdf') }}" target="_blank">ดาวน์โหลดโจทย์การแข่งขัน</a> <a class="btn btn-lg btn-primary" href="{{ url('docs/2016-th-cen-a/testcase.zip') }}" target="_blank">ดาวน์โหลด testcases</a>
 <h4>Scoreboard</h4>
 <a class="btn btn-lg btn-primary" href="{{ url('2016/thailand/central-a/scoreboard') }}" target="_blank">ดู Scoreboard</a>
