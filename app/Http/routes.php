@@ -25,3 +25,5 @@ Route::post('2016/thailand/central-a/prep-course/register', 'AcmIcpc2016Thailand
 Route::get('2016/thailand/central-a/admin', 'AcmIcpc2016ThailandCentralAController@adminLogin');
 Route::post('2016/thailand/central-a/admin', 'AcmIcpc2016ThailandCentralAController@adminShow');
 Route::get('2016/thailand/central-a/scoreboard', 'AcmIcpc2016ThailandCentralAController@scoreboard');
+
+Route::get('2016/asia/bangkok', 'AcmIcpc2016AsiaBangkokController@index');
