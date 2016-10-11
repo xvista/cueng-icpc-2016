@@ -71,6 +71,8 @@
     </tr>
 </table>
 
+<p><b>Remark: </b>Extra bed price is THB 1,200/night/set (inclusive of breakfast for one person); Extra breakfast price is THB 500/adult</p>
+
 
 <a href="{{ url('http://www.chula.ac.th/en/prospective-student/accommodation') }}"><h4>CU iHouse</h4></a>
 <table class="table table-bordered">
