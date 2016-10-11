@@ -3,13 +3,13 @@
 @section('title', '2016 ACM-ICPC Asia Bangkok Regional Contest')
 
 @section('meta')
-<meta name="description" content="การแข่งขันเขียนโปรแกรมคอมพิวเตอร์ ACM-ICPC ระดับภูมิภาค ภาคกลางเขต 1 ปี 2559 11 กันยายน 2559 ณ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย">
+<meta name="description" content="2016 ACM-ICPC Asia Bangkok Regional Contest, November 11-13, 2016 at Chula Engineering">
 <meta name="author" content="Chula Engineering">
 
-<meta property="og:title" content="2016 ACM-ICPC Thailand Central Group A Programming Contest">
+<meta property="og:title" content="2016 ACM-ICPC Asia Bangkok Regional Contest">
 <meta property="og:site_name" content="ACM-ICPC by Chula Engineering">
-<meta property="og:url" content="https://www.acm-icpc.eng.chula.ac.th/2016/thailand/central-a">
-<meta property="og:description" content="การแข่งขันเขียนโปรแกรมคอมพิวเตอร์ ACM-ICPC ระดับภูมิภาค ภาคกลางเขต 1 ปี 2559 11 กันยายน 2559 ณ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย" />
+<meta property="og:url" content="https://www.acm-icpc.eng.chula.ac.th/2016/asia/bangkok">
+<meta property="og:description" content="2016 ACM-ICPC Asia Bangkok Regional Contest, November 11-13, 2016 at Chula Engineering" />
 <meta property="og:image" content="{{ asset('img/acm-icpc-asia-bangkok-chula-meta.png') }}">
 @endsection
 
