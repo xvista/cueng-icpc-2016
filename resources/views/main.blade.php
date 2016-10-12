@@ -62,21 +62,21 @@
             <div class="card">
                 <img src="{{ asset('img/browser.png') }}" class="card-img center-block">
                 <p>2016 ACM-ICPC Thailand Central A Contest</p>
-                <a href="{{ url('http://www.acm-icpc.eng.chula.ac.th/2016/thailand/central-a/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>
+                <a href="{{ url('2016/thailand/central-a/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>
             </div>
         </div>
         <div class="col-md-4">
             <div class="card">
                 <img src="{{ asset('img/browser.png') }}" class="card-img center-block">
                 <p>2015 ACM-ICPC Thailand Central B Contest</p>
-                <a href="{{ url('http://www.acm-icpc.eng.chula.ac.th/acm-2015/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>
+                <a href="{{ url('acm-2015/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>
             </div>
         </div>
         <div class="col-md-4">
             <div class="card">
                 <img src="{{ asset('img/browser.png') }}" class="card-img center-block">
                 <p>2014 ACM-ICPC Asia Bangkok Regional Contest</p>
-                <a href="{{ url('http://www.acm-icpc.eng.chula.ac.th/acm-2014/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>
+                <a href="{{ url('acm-2014/') }}" class="btn btn-primary ghost-white-button" id="central-a-button">Visit Site</a>
             </div>
         </div>
     </div>
