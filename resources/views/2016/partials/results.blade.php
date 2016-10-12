@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td>3</td>
-            <td>รองชนะเลิศอันดับ 1</td>
+            <td>รองชนะเลิศอันดับ 2</td>
             <td><b>MoonOTea</b></td>
             <td>Chulalongkorn University</td>
             <td>
