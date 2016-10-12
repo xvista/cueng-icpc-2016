@@ -1,6 +1,6 @@
 <iframe id="contest-1-map" width="100%" height="450" frameborder="0" style="border:0;width:100%" src="https://www.google.com/maps/embed/v1/place?q=Faculty%20of%20Engineering%2C%20Chulalongkorn%20University&key=AIzaSyDsNHVPpRG84mnTXKrzpmdFE44gqPNO4s4&zoom=15"></iframe>
 
-<h3>Recommended Hotel <small>with special price only for ACM Asia competitors!</small></h3>
+<h3>Recommended Hotel <small>with special price only for ACM-ICPC Asia Bangkok Regional Contest competitors!</small></h3>
 
 <a href="{{ url('http://www.mandarin-bkk.com') }}"><h4>Mandarin Hotel</h4></a>
 <table class="table table-bordered">
