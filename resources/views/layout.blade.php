@@ -17,6 +17,14 @@
     <link href="{{ asset('css/font-aero-matics.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset(elixir('css/app.css')) }}" rel="stylesheet" type="text/css">
     @yield('favicon')
+    <style type="text/css">
+        body {
+            -moz-filter: grayscale(100%);
+            -webkit-filter: grayscale(100%);
+            filter: gray; /* IE6-9 */
+            filter: grayscale(100%);
+        }
+    </style>
     @yield('css')
 </head>
 <body>
