@@ -50,7 +50,7 @@
         <ul class="nav nav-pills nav-stacked">
             <li class="active"><a href="#about" data-toggle="pill">About</a></li>
             <li><a href="#prize" data-toggle="pill">Prize</a></li>
-            {{-- <li><a href="#rules" data-toggle="pill">Rules</a></li> --}}
+            <li><a href="#rules" data-toggle="pill">Rules</a></li>
             <li><a href="#schedule" data-toggle="pill">Schedule</a></li>
             <li><a href="#registration" data-toggle="pill">Registration</a></li>
             <li><a href="#map" data-toggle="pill">Maps &amp; Accomodations</a></li>
