@@ -22,17 +22,17 @@
 <h4>Languages</h4>
 <ul>
     <li>Java
-        <ol>
+        <ul>
             <li>Version 1.8.0_91</li>
             <li>OpenJDK Runtime Environment (build 1.8.0_91-8u91-b14-3ubuntu1~16.04.1-b14)</li>
             <li>OpenJDK 64-Bit Server VM (build 25.91-b14, mixed mode)</li>
-        </ol>
+        </ul>
     </li>
     <li>C/C++
-        <ol>
+        <ul>
             <li>gcc version 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.1)</li>
             <li>g++ version 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.1)</li>
-        </ol>
+        </ul>
     </li>
 </ul>
 <h4>Compilation of Submissions</h4>

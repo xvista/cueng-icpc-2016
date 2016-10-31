@@ -1,3 +1,12 @@
+<style type="text/css">
+    h4, h5 {
+        font-weight: bold;
+    }
+    h4 {
+        margin-top: 1.5em;
+    }
+</style>
+
 <h3>ACM-ICPC Asia Bangkok Regional Contest 2016 Rules</h3>
 <p>Adapted for the local site, these rules conform to the official ICPC Regional Rules. (<a href="http://icpc.baylor.edu/regionals/rules" target="_blank">http://icpc.baylor.edu/regionals/rules</a>) and ACM-ICPC 2016 Asia Official Regional Rules (<a href="http://blog.sina.com.cn/s/blog_b946da100102wyh6.html" target="_blank">http://blog.sina.com.cn/s/blog_b946da100102wyh6.html</a>)
 </p>
