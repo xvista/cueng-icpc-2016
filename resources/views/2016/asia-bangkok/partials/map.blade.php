@@ -1,3 +1,13 @@
+<h3>Travel and Accommodation Information Form</h3>
+
+<div class="col-lg-12 text-center">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdA_AkWjZUt0DaX9xR6y0rC5B9ijt8OCgMf178HYz_BXKY5rw/viewform" target="_blank" class="btn btn-primary btn-lg btn-block">
+        Click here to complete the form
+    </a>
+</div>
+
+<h3>Map</h3>
+
 <iframe id="contest-1-map" width="100%" height="450" frameborder="0" style="border:0;width:100%" src="https://www.google.com/maps/embed/v1/place?q=Faculty%20of%20Engineering%2C%20Chulalongkorn%20University&key=AIzaSyDsNHVPpRG84mnTXKrzpmdFE44gqPNO4s4&zoom=15"></iframe>
 
 <h3>Recommended Hotel <small>with special price only for ACM-ICPC Asia Bangkok Regional Contest competitors!</small></h3>
