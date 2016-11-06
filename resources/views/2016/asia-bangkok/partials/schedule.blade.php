@@ -1,4 +1,4 @@
-<h3>Tentative Schedule</h3>
+<h3>Schedule</h3>
 <ul>
     <li>
         <b>Registration</b><br>
@@ -80,8 +80,7 @@
         <tr>
             <th colspan="3">Saturday, 12 November:<br>
             Contest Session at Faculty of Engineering, Chulalongkorn University <br>
-            Awards Ceremony & Dinner at Petchpailin Room, Windsor Suites Hotel <br>
-            10/1 Sukhumvit Soi 20, Sukhumvit Road, Bangkok</th>
+            Awards Ceremony & Dinner at Petchpailin Room, Windsor Suites Hotel, 10/1 Sukhumvit Soi 20, Sukhumvit Road, Bangkok</th>
         </tr>
         <tr>
             <th style="width: 15%; text-align: center"></th>
@@ -144,7 +143,12 @@
         <tr>
             <td style="text-align: center">07:15</td>
             <td>Departure from Bangkok to Ayutthaya</td>
-            <td style="text-align: center">All</td>
+            <td style="text-align: center">Register only</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">09:00 - 15:00</td>
+            <td>Sightseeing in Ayutthaya</td>
+            <td style="text-align: center"></td>
         </tr>
         <tr>
             <td style="text-align: center">17:30</td>
