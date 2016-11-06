@@ -45,7 +45,7 @@
         <tr>
             <td style="text-align: center">08:00 - 09:00</td>
             <td>Registration, T-shirts</td>
-            <td style="text-align: center"></td>
+            <td style="text-align: center">All</td>
         </tr>
         <tr>
             <td style="text-align: center">09:00 - 11:00</td>
