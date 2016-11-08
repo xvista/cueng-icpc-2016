@@ -25,6 +25,19 @@
             filter: grayscale(100%);
         }
     </style>
+    <style type="text/css">
+    #mourning {
+        font-family: 'Aero Matics', sans-serif;
+        font-size: 1.75em;
+        line-height: 1em;
+        text-align: center;
+        color: #fff;
+        background-color: #000;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-bottom: 40px;
+    }
+</style>
     @yield('css')
 </head>
 <body>

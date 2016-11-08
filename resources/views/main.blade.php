@@ -44,6 +44,12 @@
     </div>
 </header>
 
+<section id="mourning" class="col-sm-12">
+    <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+        While traveling around Thailand during our mourning period for King Bhumibol, you may observe that the Thais wear black and white. We shall be grateful should you join our customs during your visit.
+    </div>
+</section>
+
 {{-- <section id="upcoming-event-section">
     <h1 class="section-header">Upcoming Event</h1>
     <div class="container">
