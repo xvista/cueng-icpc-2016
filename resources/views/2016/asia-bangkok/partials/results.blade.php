@@ -1,4 +1,4 @@
-<h3>ประกาศผลการแข่งขันเขียนโปรแกรมคอมพิวเตอร์ ACM-ICPC ระดับภูมิภาค<br>
+{{-- <h3>ประกาศผลการแข่งขันเขียนโปรแกรมคอมพิวเตอร์ ACM-ICPC ระดับภูมิภาค<br>
 ภาคกลางเขต 1 ประจำปี 2559</h3>
 
 <p>วันที่ 11 กันยายน 2559<br>
@@ -228,6 +228,6 @@
     </tbody>
 </table>
 <h4>Problems &amp; Testcases</h4>
-<a class="btn btn-lg btn-primary" href="{{ url('docs/2016-th-cen-a/2016-ACM-ICPC-Central-A-Task-Contest-Session.pdf') }}" target="_blank">ดาวน์โหลดโจทย์การแข่งขัน</a> <a class="btn btn-lg btn-primary" href="{{ url('docs/2016-th-cen-a/testcase.zip') }}" target="_blank">ดาวน์โหลด testcases</a>
+<a class="btn btn-lg btn-primary" href="{{ url('docs/2016-th-cen-a/2016-ACM-ICPC-Central-A-Task-Contest-Session.pdf') }}" target="_blank">ดาวน์โหลดโจทย์การแข่งขัน</a> <a class="btn btn-lg btn-primary" href="{{ url('docs/2016-th-cen-a/testcase.zip') }}" target="_blank">ดาวน์โหลด testcases</a> --}}
 <h4>Scoreboard</h4>
-<a class="btn btn-lg btn-primary" href="{{ url('2016/thailand/central-a/scoreboard') }}" target="_blank">ดู Scoreboard</a>
+<a class="btn btn-lg btn-primary" href="{{ url('2016/asia/bangkok/scoreboard') }}" target="_blank">View scoreboard</a>
