@@ -27,3 +27,4 @@ Route::post('2016/thailand/central-a/admin', 'AcmIcpc2016ThailandCentralAControl
 Route::get('2016/thailand/central-a/scoreboard', 'AcmIcpc2016ThailandCentralAController@scoreboard');
 
 Route::get('2016/asia/bangkok', 'AcmIcpc2016AsiaBangkokController@index');
+Route::get('2016/asia/bangkok/scoreboard', 'AcmIcpc2016AsiaBangkokController@scoreboard');
