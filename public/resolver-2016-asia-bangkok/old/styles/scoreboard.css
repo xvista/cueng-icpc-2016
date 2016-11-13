@@ -1,0 +1,9 @@
+/*TODO change color*/
+.scoreboard-solved  { background-color: #afa; color: #333; }
+.scoreboard-first   { background-color: #080; color: #fff; font-weight: bold; }
+.scoreboard-tried   { background-color: #faa; color: #333; }
+.scoreboard-pending { background-color: #99c5ff; color: #333; }
+
+#scoreboard { margin-top: 12px; }
+#table-head { background-color: #ddd; }
+#table-head-summary { background-color: #ddd; }

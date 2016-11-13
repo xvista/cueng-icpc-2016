@@ -28,3 +28,4 @@ Route::get('2016/thailand/central-a/scoreboard', 'AcmIcpc2016ThailandCentralACon
 
 Route::get('2016/asia/bangkok', 'AcmIcpc2016AsiaBangkokController@index');
 Route::get('2016/asia/bangkok/scoreboard', 'AcmIcpc2016AsiaBangkokController@scoreboard');
+Route::get('2016/asia/bangkok/resolver', 'AcmIcpc2016AsiaBangkokController@resolver');

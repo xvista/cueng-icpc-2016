@@ -1,0 +1,171 @@
+{
+    "solved": {
+        "A": 7,
+        "B": 3
+    },
+    "attempted": {
+        "A": 15,
+        "B": 4
+    },
+    "scoreboard": [{
+        "id": "1",
+        "rank": "1",
+        "solved": "2",
+        "points": "20",
+        "name": "team1",
+        "group": "",
+        "A": {
+            "a": "1",
+            "t": "10",
+            "s": "first"
+        },
+        "B": {
+            "a": "1",
+            "t": "10",
+            "s": "first"
+        }
+    }, {
+        "id": "2",
+        "rank": "2",
+        "solved": "2",
+        "points": "19965",
+        "name": "team2",
+        "group": "",
+        "A": {
+            "a": "7",
+            "t": "9656",
+            "s": "solved"
+        },
+        "B": {
+            "a": "1",
+            "t": "10209",
+            "s": "solved"
+        }
+    }, {
+        "id": "4",
+        "rank": "3",
+        "solved": "2",
+        "points": "20428",
+        "name": "team4",
+        "group": "",
+        "A": {
+            "a": "1",
+            "t": "10214",
+            "s": "solved"
+        },
+        "B": {
+            "a": "1",
+            "t": "10214",
+            "s": "solved"
+        }
+    }, {
+        "id": "3",
+        "rank": "4",
+        "solved": "1",
+        "points": "10230",
+        "name": "team3",
+        "group": "",
+        "A": {
+            "a": "1",
+            "t": "10230",
+            "s": "solved"
+        },
+        "B": {
+            "a": "0",
+            "s": "nottried"
+        }
+    }, {
+        "id": "5",
+        "rank": "5",
+        "solved": "1",
+        "points": "10232",
+        "name": "team5",
+        "group": "",
+        "A": {
+            "a": "1",
+            "t": "10232",
+            "s": "solved"
+        },
+        "B": {
+            "a": "0",
+            "s": "nottried"
+        }
+    }, {
+        "id": "7",
+        "rank": "6",
+        "solved": "1",
+        "points": "11030",
+        "name": "team7",
+        "group": "",
+        "A": {
+            "a": "1",
+            "t": "11030",
+            "s": "solved"
+        },
+        "B": {
+            "a": "0",
+            "s": "nottried"
+        }
+    }, {
+        "id": "8",
+        "rank": "7",
+        "solved": "1",
+        "points": "11031",
+        "name": "team8",
+        "group": "",
+        "A": {
+            "a": "2",
+            "t": "11031",
+            "s": "solved"
+        },
+        "B": {
+            "a": "0",
+            "s": "nottried"
+        }
+    }, {
+        "id": "6",
+        "rank": "8",
+        "solved": "0",
+        "points": "0",
+        "name": "team6",
+        "group": "",
+        "A": {
+            "a": "1",
+            "s": "tried"
+        },
+        "B": {
+            "a": "1",
+            "s": "pending"
+        }
+    }, {
+        "id": "9",
+        "rank": "8",
+        "solved": "0",
+        "points": "0",
+        "name": "team9",
+        "group": "",
+        "A": {
+            "a": "0",
+            "s": "nottried"
+        },
+        "B": {
+            "a": "0",
+            "s": "nottried"
+        }
+    }, {
+        "id": "10",
+        "rank": "8",
+        "solved": "0",
+        "points": "0",
+        "name": "team10",
+        "group": "",
+        "A": {
+            "a": "0",
+            "s": "nottried"
+        },
+        "B": {
+            "a": "0",
+            "s": "nottried"
+        }
+    }]
+}

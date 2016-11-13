@@ -1,0 +1,6065 @@
+{
+    "solved": {
+        "A": 3,
+        "B": 37,
+        "C": 0,
+        "D": 7,
+        "E": 0,
+        "F": 1,
+        "G": 51,
+        "H": 11,
+        "I": 4,
+        "J": 5,
+        "K": 1,
+        "L": 29
+    },
+    "attempted": {
+        "A": 12,
+        "B": 111,
+        "C": 16,
+        "D": 25,
+        "E": 15,
+        "F": 8,
+        "G": 137,
+        "H": 34,
+        "I": 36,
+        "J": 7,
+        "K": 5,
+        "L": 61
+    },
+    "scoreboard": [{
+        "id": 19,
+        "rank": 1,
+        "solved": 9,
+        "points": 671,
+        "name": "Chulalongkorn University - Debuggers",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 36,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "t": 68,
+            "s": "solved"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 1,
+            "t": 99,
+            "s": "first"
+        },
+        "G": {
+            "a": 1,
+            "t": 29,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 20,
+            "s": "first"
+        },
+        "I": {
+            "a": 4,
+            "t": 120,
+            "s": "solved"
+        },
+        "J": {
+            "a": 1,
+            "t": 105,
+            "s": "solved"
+        },
+        "K": {
+            "a": 1,
+            "t": 124,
+            "s": "first"
+        },
+        "L": {
+            "a": 1,
+            "t": 10,
+            "s": "solved"
+        }
+    }, {
+        "id": 61,
+        "rank": 2,
+        "solved": 6,
+        "points": 374,
+        "name": "Chulalongkorn University - Wai Roon Jud Pai",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 17,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "t": 122,
+            "s": "solved"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 21,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 40,
+            "s": "solved"
+        },
+        "I": {
+            "a": 3,
+            "t": 79,
+            "s": "first"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 35,
+            "s": "solved"
+        }
+    }, {
+        "id": 47,
+        "rank": 3,
+        "solved": 6,
+        "points": 435,
+        "name": "Chulalongkorn University - CU-MWITS2",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 8,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "t": 120,
+            "s": "solved"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 18,
+            "s": "solved"
+        },
+        "H": {
+            "a": 2,
+            "t": 102,
+            "s": "solved"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 1,
+            "t": 79,
+            "s": "first"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 68,
+            "s": "solved"
+        }
+    }, {
+        "id": 29,
+        "rank": 4,
+        "solved": 6,
+        "points": 480,
+        "name": "Chulalongkorn University - CU-MWITS4",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 90,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "t": 64,
+            "s": "first"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 44,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 84,
+            "s": "solved"
+        },
+        "I": {
+            "a": 1,
+            "t": 134,
+            "s": "solved"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 24,
+            "s": "solved"
+        }
+    }, {
+        "id": 32,
+        "rank": 5,
+        "solved": 6,
+        "points": 489,
+        "name": "Chulalongkorn University - MoonOTea",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 14,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "t": 130,
+            "s": "solved"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 44,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 38,
+            "s": "solved"
+        },
+        "I": {
+            "a": 4,
+            "t": 109,
+            "s": "solved"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 74,
+            "s": "solved"
+        }
+    }, {
+        "id": 24,
+        "rank": 6,
+        "solved": 5,
+        "points": 287,
+        "name": "Chulalongkorn University - EZDC",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 56,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 9,
+            "s": "first"
+        },
+        "H": {
+            "a": 2,
+            "t": 50,
+            "s": "solved"
+        },
+        "I": {
+            "a": 2,
+            "s": "tried"
+        },
+        "J": {
+            "a": 1,
+            "t": 119,
+            "s": "solved"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 33,
+            "s": "solved"
+        }
+    }, {
+        "id": 30,
+        "rank": 7,
+        "solved": 5,
+        "points": 341,
+        "name": "Chulalongkorn University - EZAC",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 8,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 2,
+            "t": 123,
+            "s": "solved"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 15,
+            "s": "solved"
+        },
+        "H": {
+            "a": 2,
+            "t": 116,
+            "s": "solved"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 39,
+            "s": "solved"
+        }
+    }, {
+        "id": 39,
+        "rank": 8,
+        "solved": 5,
+        "points": 387,
+        "name": "Chulalongkorn University - Untitled-1",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 20,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 106,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 122,
+            "s": "solved"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 1,
+            "t": 88,
+            "s": "solved"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 31,
+            "s": "solved"
+        }
+    }, {
+        "id": 46,
+        "rank": 9,
+        "solved": 4,
+        "points": 138,
+        "name": "Chulalongkorn University - footLongHamCheese",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 56,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 11,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 37,
+            "s": "solved"
+        },
+        "I": {
+            "a": 2,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 34,
+            "s": "solved"
+        }
+    }, {
+        "id": 12,
+        "rank": 10,
+        "solved": 4,
+        "points": 169,
+        "name": "Chulalongkorn University - EZIC",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 27,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 22,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "t": 39,
+            "s": "solved"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 61,
+            "s": "solved"
+        }
+    }, {
+        "id": 52,
+        "rank": 11,
+        "solved": 4,
+        "points": 181,
+        "name": "Chulalongkorn University - IdeaPocket Returns",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 6,
+            "s": "first"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "t": 98,
+            "s": "solved"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 43,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 34,
+            "s": "solved"
+        }
+    }, {
+        "id": 73,
+        "rank": 12,
+        "solved": 4,
+        "points": 199,
+        "name": "Chulalongkorn University - Lokim",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 23,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 47,
+            "s": "solved"
+        },
+        "H": {
+            "a": 2,
+            "s": "tried"
+        },
+        "I": {
+            "a": 3,
+            "s": "tried"
+        },
+        "J": {
+            "a": 1,
+            "t": 88,
+            "s": "solved"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 21,
+            "s": "solved"
+        }
+    }, {
+        "id": 3,
+        "rank": 13,
+        "solved": 4,
+        "points": 208,
+        "name": "Chulalongkorn University - Fmmmmmm",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 42,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 9,
+            "s": "first"
+        },
+        "H": {
+            "a": 2,
+            "t": 115,
+            "s": "solved"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 22,
+            "s": "solved"
+        }
+    }, {
+        "id": 16,
+        "rank": 14,
+        "solved": 4,
+        "points": 320,
+        "name": "Chulalongkorn University - CASINO CU",
+        "group": "",
+        "A": {
+            "a": 2,
+            "t": 125,
+            "s": "solved"
+        },
+        "B": {
+            "a": 1,
+            "t": 90,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 16,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 49,
+            "s": "solved"
+        }
+    }, {
+        "id": 34,
+        "rank": 15,
+        "solved": 4,
+        "points": 356,
+        "name": "Chulalongkorn University - TeamChuanChom",
+        "group": "",
+        "A": {
+            "a": 1,
+            "t": 58,
+            "s": "solved"
+        },
+        "B": {
+            "a": 1,
+            "t": 14,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 134,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 130,
+            "s": "solved"
+        }
+    }, {
+        "id": 40,
+        "rank": 16,
+        "solved": 3,
+        "points": 85,
+        "name": "Chulalongkorn University - POK POK",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 35,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 21,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 9,
+            "s": "first"
+        }
+    }, {
+        "id": 28,
+        "rank": 17,
+        "solved": 3,
+        "points": 212,
+        "name": "Chulalongkorn University - CianTuRat",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 48,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 72,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 32,
+            "s": "solved"
+        }
+    }, {
+        "id": 101,
+        "rank": 18,
+        "solved": 3,
+        "points": 219,
+        "name": "Chulalongkorn University - LittleDeerGoingToSchool",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 88,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 24,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 3,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 67,
+            "s": "solved"
+        }
+    }, {
+        "id": 100,
+        "rank": 19,
+        "solved": 3,
+        "points": 320,
+        "name": "Chulalongkorn University - KabigonCute",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 3,
+            "t": 110,
+            "s": "solved"
+        },
+        "C": {
+            "a": 1,
+            "s": "tried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 54,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 2,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 96,
+            "s": "solved"
+        }
+    }, {
+        "id": 98,
+        "rank": 20,
+        "solved": 3,
+        "points": 327,
+        "name": "Chulalongkorn University - Kapaotung",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 119,
+            "s": "solved"
+        },
+        "C": {
+            "a": 1,
+            "s": "tried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 3,
+            "t": 86,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 1,
+            "s": "tried"
+        },
+        "L": {
+            "a": 2,
+            "t": 42,
+            "s": "solved"
+        }
+    }, {
+        "id": 93,
+        "rank": 21,
+        "solved": 3,
+        "points": 375,
+        "name": "Chulalongkorn University - Add Friend/Pizza",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 124,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 65,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 5,
+            "t": 106,
+            "s": "solved"
+        }
+    }, {
+        "id": 1,
+        "rank": 22,
+        "solved": 3,
+        "points": 402,
+        "name": "Chulalongkorn University - ProblemSolver",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 126,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 5,
+            "t": 121,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 75,
+            "s": "solved"
+        }
+    }, {
+        "id": 26,
+        "rank": 23,
+        "solved": 2,
+        "points": 96,
+        "name": "Chulalongkorn University - MightyTiti",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 13,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 4,
+            "s": "tried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 83,
+            "s": "solved"
+        }
+    }, {
+        "id": 70,
+        "rank": 24,
+        "solved": 2,
+        "points": 107,
+        "name": "Chulalongkorn University - CU-MWITS1",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 13,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 74,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "s": "tried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 10,
+        "rank": 25,
+        "solved": 2,
+        "points": 111,
+        "name": "Chulalongkorn University - #TeamRem",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 7,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 84,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "s": "tried"
+        }
+    }, {
+        "id": 102,
+        "rank": 26,
+        "solved": 2,
+        "points": 125,
+        "name": "Chulalongkorn University - ChawinAiem",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 8,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 10,
+            "s": "tried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 77,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 42,
+        "rank": 27,
+        "solved": 2,
+        "points": 126,
+        "name": "Chulalongkorn University - Newza500",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 92,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 34,
+            "s": "solved"
+        }
+    }, {
+        "id": 56,
+        "rank": 28,
+        "solved": 2,
+        "points": 130,
+        "name": "Chulalongkorn University - TongMiss",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 63,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 47,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 76,
+        "rank": 29,
+        "solved": 2,
+        "points": 134,
+        "name": "Chulalongkorn University - wallet warrior",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 73,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 2,
+            "t": 41,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 36,
+        "rank": 30,
+        "solved": 2,
+        "points": 145,
+        "name": "Chulalongkorn University - Enhanced 2.0",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 2,
+            "s": "tried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 70,
+            "s": "solved"
+        },
+        "H": {
+            "a": 4,
+            "s": "tried"
+        },
+        "I": {
+            "a": 2,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "t": 35,
+            "s": "solved"
+        }
+    }, {
+        "id": 4,
+        "rank": 31,
+        "solved": 2,
+        "points": 151,
+        "name": "Chulalongkorn University - M2N",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 56,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 4,
+            "t": 95,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 86,
+        "rank": 32,
+        "solved": 2,
+        "points": 157,
+        "name": "Chulalongkorn University - hashtag",
+        "group": "",
+        "A": {
+            "a": 1,
+            "s": "tried"
+        },
+        "B": {
+            "a": 3,
+            "t": 60,
+            "s": "solved"
+        },
+        "C": {
+            "a": 1,
+            "s": "tried"
+        },
+        "D": {
+            "a": 2,
+            "s": "tried"
+        },
+        "E": {
+            "a": 1,
+            "s": "tried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 3,
+            "s": "tried"
+        },
+        "H": {
+            "a": 3,
+            "s": "tried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 1,
+            "s": "tried"
+        },
+        "K": {
+            "a": 1,
+            "s": "tried"
+        },
+        "L": {
+            "a": 1,
+            "t": 97,
+            "s": "solved"
+        }
+    }, {
+        "id": 92,
+        "rank": 33,
+        "solved": 2,
+        "points": 169,
+        "name": "Chulalongkorn University - Sausage eater",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 63,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 66,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 35,
+        "rank": 34,
+        "solved": 2,
+        "points": 186,
+        "name": "Chulalongkorn University - SE-Berjaya",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 58,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 128,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 49,
+        "rank": 35,
+        "solved": 2,
+        "points": 205,
+        "name": "Chulalongkorn University - SE-bros",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 121,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 64,
+            "s": "solved"
+        }
+    }, {
+        "id": 37,
+        "rank": 36,
+        "solved": 2,
+        "points": 218,
+        "name": "Chulalongkorn University - TOA",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 71,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "t": 127,
+            "s": "solved"
+        }
+    }, {
+        "id": 57,
+        "rank": 37,
+        "solved": 2,
+        "points": 255,
+        "name": "Chulalongkorn University - Mangosteen",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 97,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 98,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 18,
+        "rank": 38,
+        "solved": 2,
+        "points": 264,
+        "name": "Chulalongkorn University - SE-Xenon",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 8,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 89,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 5,
+            "t": 115,
+            "s": "solved"
+        }
+    }, {
+        "id": 22,
+        "rank": 39,
+        "solved": 1,
+        "points": 11,
+        "name": "Chulalongkorn University - JIN",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 11,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 5,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 90,
+        "rank": 40,
+        "solved": 1,
+        "points": 40,
+        "name": "Chulalongkorn University - ChanaNgaeChoobPangTod",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 20,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "s": "tried"
+        }
+    }, {
+        "id": 38,
+        "rank": 41,
+        "solved": 1,
+        "points": 45,
+        "name": "Chulalongkorn University - CU-MWITS3",
+        "group": "",
+        "A": {
+            "a": 1,
+            "t": 45,
+            "s": "first"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 2,
+            "s": "tried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 7,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 103,
+        "rank": 42,
+        "solved": 1,
+        "points": 58,
+        "name": "Chulalongkorn University - Nutmos FC",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "t": 58,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "s": "tried"
+        },
+        "H": {
+            "a": 1,
+            "s": "tried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "s": "tried"
+        }
+    }, {
+        "id": 89,
+        "rank": 43,
+        "solved": 1,
+        "points": 62,
+        "name": "Chulalongkorn University - BeeJay",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 62,
+            "s": "solved"
+        },
+        "H": {
+            "a": 2,
+            "s": "tried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 59,
+        "rank": 44,
+        "solved": 1,
+        "points": 67,
+        "name": "Chulalongkorn University - Team A Rai D",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "t": 47,
+            "s": "solved"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 85,
+        "rank": 45,
+        "solved": 1,
+        "points": 71,
+        "name": "Chulalongkorn University - AbsoluteZero",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 51,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 66,
+        "rank": 45,
+        "solved": 1,
+        "points": 71,
+        "name": "Chulalongkorn University - SE chub pang taud",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 51,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 96,
+        "rank": 47,
+        "solved": 1,
+        "points": 73,
+        "name": "Chulalongkorn University - NBoomFC",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 3,
+            "s": "tried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 33,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 67,
+        "rank": 48,
+        "solved": 1,
+        "points": 80,
+        "name": "Chulalongkorn University - CPALL",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 4,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 60,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 82,
+        "rank": 49,
+        "solved": 1,
+        "points": 83,
+        "name": "Chulalongkorn University - MaLongDoo",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 3,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 63,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 83,
+        "rank": 50,
+        "solved": 1,
+        "points": 83,
+        "name": "Chulalongkorn University - GGEZ",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 83,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 95,
+        "rank": 51,
+        "solved": 1,
+        "points": 84,
+        "name": "Chulalongkorn University - Penguin",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 1,
+            "t": 84,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 65,
+        "rank": 52,
+        "solved": 1,
+        "points": 115,
+        "name": "Chulalongkorn University - DROP TABLE",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 95,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "s": "tried"
+        }
+    }, {
+        "id": 48,
+        "rank": 53,
+        "solved": 1,
+        "points": 119,
+        "name": "Chulalongkorn University - CapsLock",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 99,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 6,
+        "rank": 54,
+        "solved": 1,
+        "points": 129,
+        "name": "Chulalongkorn University - Nutza007",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "t": 129,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 77,
+        "rank": 55,
+        "solved": 1,
+        "points": 131,
+        "name": "Chulalongkorn University - Orange Farm",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 2,
+            "t": 111,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 106,
+        "rank": 56,
+        "solved": 1,
+        "points": 160,
+        "name": "Chulalongkorn University - KMUTNB_POKAMMING_GO",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 120,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 94,
+        "rank": 57,
+        "solved": 1,
+        "points": 166,
+        "name": "Chulalongkorn University - Mango",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "t": 126,
+            "s": "solved"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 88,
+        "rank": 58,
+        "solved": 1,
+        "points": 187,
+        "name": "Chulalongkorn University - SuperTamza",
+        "group": "",
+        "A": {
+            "a": 1,
+            "s": "tried"
+        },
+        "B": {
+            "a": 1,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 5,
+            "t": 107,
+            "s": "solved"
+        },
+        "H": {
+            "a": 1,
+            "s": "tried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 1,
+            "s": "tried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "s": "tried"
+        }
+    }, {
+        "id": 79,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Ace",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 81,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - acttha_eiei",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 7,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 2,
+            "s": "tried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 41,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - BlackCat",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 74,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - BPB",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 87,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Captain Padung On Duty",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 2,
+            "s": "tried"
+        }
+    }, {
+        "id": 33,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - CU-SATITM",
+        "group": "",
+        "A": {
+            "a": 1,
+            "s": "tried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 5,
+            "s": "tried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 1,
+            "s": "tried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 45,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - dingdong",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 4,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 91,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - DontForgetToDiff",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 64,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Egg,Inc.",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 68,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - EMME_BSRU",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 54,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - FBI",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 3,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 2,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 78,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - For Balloons",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 6,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 3,
+            "s": "tried"
+        }
+    }, {
+        "id": 13,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - ICE Mahanakorn 1",
+        "group": "",
+        "A": {
+            "a": 1,
+            "s": "tried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 72,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - ICE Mahanakorn 2",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 63,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Inception",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 60,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - It's very easy",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 69,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - JKPOP",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 104,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KMUTNB_PTB",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 107,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KMUTNB_THCLoveAlgo",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 105,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KMUTNB_ULIFE",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 97,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KU-CPE-2",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 80,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KuLookKai",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 58,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Kuri Kuri",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 7,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KUSCS_ARES",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 3,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 25,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KUSCS_HADES",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "s": "tried"
+        }
+    }, {
+        "id": 21,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KUSCS_HERMES",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 9,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KUSCS_MARS",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 43,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - KUSCS_NEPTUNE",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 3,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 2,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Let's Kaizen",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 1,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 84,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - LittleBear",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 27,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - MIS SSRU",
+        "group": "",
+        "A": {
+            "a": 4,
+            "s": "tried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 2,
+            "s": "tried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 1,
+            "s": "tried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 11,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Modnoi",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 50,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - N2M",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 5,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - OCD",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 15,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Pythonian",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 75,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Recursive Acid",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 2,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 55,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE MooNoom Return",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 71,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE Yam4EveryOne",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 51,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE-Argon",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 20,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE-Carbon",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 2,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "s": "tried"
+        }
+    }, {
+        "id": 14,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE-Cookie-and-Cream",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 1,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 1,
+            "s": "tried"
+        },
+        "G": {
+            "a": 1,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 1,
+            "s": "tried"
+        }
+    }, {
+        "id": 44,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE-Family",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 1,
+            "s": "tried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 8,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - SE-Whatever",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 8,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 1,
+            "s": "tried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 53,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Team OOP",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 1,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 1,
+            "s": "tried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 62,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - The Connect",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 99,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - The Follower",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 4,
+            "s": "tried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 17,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - TNI_CE1",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 31,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - TNI_CE2",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 2,
+            "s": "tried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }, {
+        "id": 23,
+        "rank": 59,
+        "solved": 0,
+        "points": 0,
+        "name": "Chulalongkorn University - Untitled",
+        "group": "",
+        "A": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "B": {
+            "a": 4,
+            "s": "tried"
+        },
+        "C": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "D": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "E": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "F": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "G": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "H": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "I": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "J": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "K": {
+            "a": 0,
+            "s": "nottried"
+        },
+        "L": {
+            "a": 0,
+            "s": "nottried"
+        }
+    }]
+}

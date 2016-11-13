@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>ACM-ICPC Online Score Board</title>
+	<script src="scripts/lib/jquery-2.2.4.min.js"></script>
+	<script src="scripts/lib/handlebars.min.js"></script>
+	<script src="scripts/lib/bootstrap.min.js"></script>
+	<script src="scripts/scoreboard.js"></script>
+	<link rel="stylesheet" href="styles/bootstrap.min.css">
+	<link rel="stylesheet" href="styles/scoreboard.css">
+</head>
+<body>
+	<div class="container-fluid">
+		<h1 class="text-center">ACM-ICPC Online Score Board</h1>
+		<div class="text-center">
+			<span class="label scoreboard-first">First Solver</span>
+			<span class="label scoreboard-solved">Solved</span>
+			<span class="label scoreboard-tried">Attempted</span>
+			<span class="label scoreboard-pending">Pending</span>
+		</div>
+		<table class="table" id="scoreboard">
+			<thead>
+				<tr id="table-head">
+					<th>rank</th>
+					<th>name</th>
+					<th>solved</th>
+					<th>time</th>
+				</tr>
+			</thead>
+			<tbody id="scoreboard-body">
+			</tbody>
+			<tfoot>
+				<tr id="table-head-summary">
+					<td colspan="4"></td>
+				</tr>
+				<tr id="row-solved">
+					<td colspan="4">Solved / Tries</td>
+				</tr>
+				<!-- <tr id="row-tries">
+					<td colspan="4">Average Tries</td>
+				</tr>
+				<tr id="row-tries-to-solve">
+					<td colspan="4">Average Tries to Solve</td>
+				</tr> -->
+			</tfoot>
+		</table>
+	</div>
+</body>
+</html>

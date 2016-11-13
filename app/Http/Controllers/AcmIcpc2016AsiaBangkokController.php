@@ -17,4 +17,9 @@ class AcmIcpc2016AsiaBangkokController extends Controller
     {
         return view('2016.asia-bangkok.scoreboard');
     }
+
+    public function resolver()
+    {
+        return view('2016.asia-bangkok.resolver');
+    }
 }

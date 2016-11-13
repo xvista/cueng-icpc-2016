@@ -1,0 +1,16 @@
+.scoreboard-head .scoreboard-problem {
+  text-indent: -9999px;
+}
+
+.scoreboard-head .scoreboard-problem-A { background-color: #F0A !important; }
+.scoreboard-head .scoreboard-problem-B { background-color: #00F !important; }
+.scoreboard-head .scoreboard-problem-C { background-color: #F8F !important; }
+.scoreboard-head .scoreboard-problem-D { background-color: #FF0 !important; }
+.scoreboard-head .scoreboard-problem-E { background-color: #090 !important; }
+.scoreboard-head .scoreboard-problem-F { background-color: #FF9 !important; }
+.scoreboard-head .scoreboard-problem-G { background-color: #FFF !important; }
+.scoreboard-head .scoreboard-problem-H { background-color: #098 !important; }
+.scoreboard-head .scoreboard-problem-I { background-color: #3DF !important; }
+.scoreboard-head .scoreboard-problem-J { background-color: #70A !important; }
+.scoreboard-head .scoreboard-problem-K { background-color: #F00 !important; }
+.scoreboard-head .scoreboard-problem-L { background-color: #F80 !important; }
