@@ -69,7 +69,7 @@
             </td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>5</td>
             <td>The Complimentary Award</td>
             <td><b>ntopia never dies</b></td>
             <td>Seoul National University</td>
@@ -83,7 +83,7 @@
             </td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>6</td>
             <td>The Complimentary Award</td>
             <td><b>Knife</b></td>
             <td>National Taiwan University</td>
@@ -97,7 +97,7 @@
             </td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>7</td>
             <td>The Complimentary Award</td>
             <td><b>CPCU Debuggers</b></td>
             <td>Chulalongkorn University</td>
