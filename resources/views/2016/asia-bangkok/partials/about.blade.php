@@ -1,6 +1,7 @@
 <h3>Latest Update</h3>
 <ul>
-    <li><b>2016-11-13 01:21 ICT:</b> Scoreboard is now available <a href="{{ url('2016/asia/bangkok/scoreboard') }}">here</a> or in the result section</li>
+    <li><b>2016-11-18 02:04 ICT:</b> Problems and datasets are available in the Result section</li>
+    <li><b>2016-11-13 01:21 ICT:</b> Scoreboard is now available <a href="{{ url('2016/asia/bangkok/scoreboard') }}">here</a> or in the Result section</li>
 </ul>
 <hr>
 <h3>About</h3>
