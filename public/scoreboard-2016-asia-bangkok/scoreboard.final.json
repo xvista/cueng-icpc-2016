@@ -1987,64 +1987,6 @@
             "s":"solved"
          }
       },
-      /*{
-         "id":74,
-         "rank":33,
-         "solved":2,
-         "points":299,
-         "name":"Chulalongkorn University - CPCU MWIT1",
-         "group":"",
-         "A":{
-            "a":0,
-            "s":"nottried"
-         },
-         "B":{
-            "a":4,
-            "s":"tried"
-         },
-         "C":{
-            "a":0,
-            "s":"nottried"
-         },
-         "D":{
-            "a":0,
-            "s":"nottried"
-         },
-         "E":{
-            "a":0,
-            "s":"nottried"
-         },
-         "F":{
-            "a":0,
-            "s":"nottried"
-         },
-         "G":{
-            "a":7,
-            "s":"tried"
-         },
-         "H":{
-            "a":0,
-            "s":"nottried"
-         },
-         "I":{
-            "a":3,
-            "t":238,
-            "s":"solved"
-         },
-         "J":{
-            "a":0,
-            "s":"nottried"
-         },
-         "K":{
-            "a":0,
-            "s":"nottried"
-         },
-         "L":{
-            "a":1,
-            "t":21,
-            "s":"solved"
-         }
-      },*/
       {
          "id":72,
          "rank":34,
@@ -2335,63 +2277,6 @@
             "s":"solved"
          }
       },
-      /*{
-         "id":51,
-         "rank":39,
-         "solved":1,
-         "points":43,
-         "name":"Chulalongkorn University - CPCU MWIT3",
-         "group":"",
-         "A":{
-            "a":0,
-            "s":"nottried"
-         },
-         "B":{
-            "a":0,
-            "s":"nottried"
-         },
-         "C":{
-            "a":0,
-            "s":"nottried"
-         },
-         "D":{
-            "a":5,
-            "s":"tried"
-         },
-         "E":{
-            "a":0,
-            "s":"nottried"
-         },
-         "F":{
-            "a":0,
-            "s":"nottried"
-         },
-         "G":{
-            "a":0,
-            "s":"nottried"
-         },
-         "H":{
-            "a":0,
-            "s":"nottried"
-         },
-         "I":{
-            "a":0,
-            "s":"nottried"
-         },
-         "J":{
-            "a":0,
-            "s":"nottried"
-         },
-         "K":{
-            "a":0,
-            "s":"nottried"
-         },
-         "L":{
-            "a":1,
-            "t":43,
-            "s":"solved"
-         }
-      },*/
       {
          "id":77,
          "rank":40,
@@ -3019,63 +2904,6 @@
             "s":"solved"
          }
       },
-      /*{
-         "id":41,
-         "rank":51,
-         "solved":1,
-         "points":274,
-         "name":"Chulalongkorn University - CPCU MWIT2",
-         "group":"",
-         "A":{
-            "a":0,
-            "s":"nottried"
-         },
-         "B":{
-            "a":2,
-            "s":"tried"
-         },
-         "C":{
-            "a":2,
-            "t":254,
-            "s":"solved"
-         },
-         "D":{
-            "a":6,
-            "s":"tried"
-         },
-         "E":{
-            "a":0,
-            "s":"nottried"
-         },
-         "F":{
-            "a":0,
-            "s":"nottried"
-         },
-         "G":{
-            "a":0,
-            "s":"nottried"
-         },
-         "H":{
-            "a":0,
-            "s":"nottried"
-         },
-         "I":{
-            "a":0,
-            "s":"nottried"
-         },
-         "J":{
-            "a":0,
-            "s":"nottried"
-         },
-         "K":{
-            "a":0,
-            "s":"nottried"
-         },
-         "L":{
-            "a":0,
-            "s":"nottried"
-         }
-      },*/
       {
          "id":40,
          "rank":52,
